@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+  <title> SISTAM CESFAM Mena</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <!--*************************** SOURCE ************************************-->
+  <!--main-->
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.css' rel='stylesheet' />
+  <!--polygon-->
+  <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.18.0/mapbox-gl-draw.js'></script>
+  <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.18.0/mapbox-gl-draw.css' type='text/css' />
+  <!--turf-->
+  <script src='https://api.mapbox.com/mapbox.js/plugins/turf/v2.0.2/turf.min.js'></script>
+  <!--smalltalk-->
+  <link rel="stylesheet" href="../../node_modules/smalltalk/dist/smalltalk.min.css">
+  <script src="../../node_modules/smalltalk/dist/smalltalk.poly.min.js"></script>
+  <!--GoogleMaps-->
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+  <script type="text/javascript"></script>
+  <!--XLSX-->
+  <script lang="javascript" src="../../node_modules/xlsx/dist/xlsx.full.min.js"></script>
+  <!--JQuery-->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <!-- <script src="../../node_modules/jquery/dist/jquery.js"></script> -->
+  <!--***********************************************************************-->
+
+  <link rel="stylesheet" type="text/css" href="../../css/main/map.css">
+  <link rel="stylesheet" type="text/css" href="../../css/main/fontello.css">
+  <link rel="stylesheet" type="text/css" href="../../css/main/sidebar.css">
+  <link rel="stylesheet" type="text/css" href="../../css/main/midbar.css">
+  <link rel="stylesheet" type="text/css" href="../../css/main/bottombar.css">
+  <link rel="stylesheet" type="text/css" href="../../css/main/sidebox.css">
+  <link rel="stylesheet" type="text/css" href="../../css/main/deploy.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+
+<body>
+  <div id='map'></div>
+  <header>
+    <nav class="sidebox">
+      <nav class="uppermenu">
+        <ul>
+          <h1>SISTAM</h1>
+          <div class="photo">
+            <img src="../../extras/pictures/logoG.jpg" alt="samus" style="width:100%;height:50%px;">
+          </div>
+        </ul>
+      </nav>
+      <nav class="boxmenu">
+        <h2>Información clínica</h2>
+        <ul>
+          <nav class="menu">
+            <ul>
+              <li><a>
+          <input type="checkbox" id="item0" name="item-0" value="Item0">
+          <label for="item0">Adultos Mayores Adscritos</label></a></li>
+              <li class="submenu"><b>Programas de salud</b>
+                <ul>
+                  <li><a>
+                    <input type="checkbox" id="item1" name="item-1">
+                    <label for="item1">Postrado</label></a></li>
+                </ul>
+              </li>
+              <!-- <li class="submenu"><b>Herramientas de intervención</b>
+                <ul>
+                  <li><a>
+                    <input type="checkbox" id="item2" name="item-2">
+                    <label for="item2">Recordatorio de citas</label></a></li>
+                </ul>
+              </li> -->
+            </ul>
+          </nav>
+        </ul>
+      </nav>
+      <nav class="bottoboxmmenu">
+        <h2>Información territorial</h2>
+        <ul>
+          <nav class="bottommenu">
+            <ul>
+              <li class="bottomsubmenu"><b>Cesfam Mena</b>
+                <li class="deploymenu"><a>Sectores<span class="icon-down-open"></a>
+                  <ul>
+                    <li><a>
+                      <input type="checkbox" id="sig2" name="sig-2">
+                      <label for="sig2">Sector 18</label></a></li>
+                    <li><a>
+                      <input type="checkbox" id="sig3" name="sig-3">
+                      <label for="sig3">Sector 27</label></a></li>
+                  </ul>
+                </li>
+                <li class="deploymenu"><a>Sub-Sectores<span class="icon-down-open"></a>
+                  <ul>
+                    <li><a>
+                          <input type="checkbox" id="ssig0" name="ssig-0">
+                          <label for="ssig0">Sector 18-A</label></a></li>
+                    <li><a>
+                          <input type="checkbox" id="ssig1" name="sig-1">
+                          <label for="ssig1">Sector 18-B</label></a></li>
+                    <li><a>
+                          <input type="checkbox" id="ssig2" name="sig-2">
+                          <label for="ssig2">Sector 18-C</label></a></li>
+                    <li><a>
+                        <input type="checkbox" id="ssig3" name="sig-3">
+                        <label for="ssig3">Sector 27-A</label></a></li>
+                    <li><a>
+                        <input type="checkbox" id="ssig4" name="sig-4">
+                        <label for="ssig4">Sector 27-B</label></a></li>
+                    <li><a>
+                        <input type="checkbox" id="ssig5" name="sig-5">
+                        <label for="ssig5">Sector 27-C</label></a></li>
+                  </ul>
+                </li>
+              </li>
+            </ul>
+            <ul>
+              <li class="submenu"><b>Levantamiento territorial</b>
+                <li><a>
+                      <input type="checkbox" id="item1" name="item-1">
+                      <label for="item1">Postrado</label></a></li>
+              </li>
+            </ul>
+          </nav>
+        </ul>
+      </nav>
+    </nav>
+  </header>
+
+  <script>
+    if (typeof module === 'object') {
+      window.module = module;
+      module = undefined;
+    }
+    const path = require('path');
+  </script>
+
+  <script src="../../js/ucontrol/menu.js"></script>
+  <script src="../../js/main/main.js"></script>
+  <script src="../../js/main/load.js"></script>
+  <script src="../../js/main/geo.js"></script>
+  <script src="../../js/main/load_am.js"></script>
+  <script src="../../js/main/load_inm.js"></script>
+  <!-- <script src="../../js/main/load_rec.js"></script> -->
+  <script src="../../js/main/load_sector.js"></script>
+  <script src="../../js/main/load_subsector18.js"></script>
+  <script src="../../js/main/load_subsector27.js"></script>
+
+</body>
+
+</html>

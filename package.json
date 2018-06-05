@@ -1,0 +1,37 @@
+{
+  "name": "mapbox",
+  "version": "1.1.0",
+  "description": "Mapbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "test .",
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@google/maps": "^0.3.1",
+    "@mapbox/mapbox-gl-draw": "^0.18.1",
+    "@turf/center-of-mass": "^4.5.2",
+    "@turf/meta": "^4.5.2",
+    "@turf/turf": "^4.5.2",
+    "accesscontrol": "^2.2.1",
+    "angular": "^1.6.9",
+    "connect-flash": "^0.1.1",
+    "express": "^4.16.3",
+    "i": "^0.3.6",
+    "mongodb": "^3.1.0-beta4",
+    "passport": "^0.4.0",
+    "permission": "^1.1.0",
+    "remote": "^0.2.6",
+    "simple-excel-js": "^1.0.0",
+    "smalltalk": "^2.4.1",
+    "sqlite3": "^3.1.8",
+    "xlsx": "^0.10.6",
+    "xml-js": "^1.5.2",
+    "zmq": "^2.15.3"
+  },
+  "author": "Edgardo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "2.0.2"
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "type": "FeatureCollection",
+  "name": "ascensores",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "osm_id": "23783001",
+        "name": "Ascensor Reina Victoria",
+        "type": "funicular",
+        "FUNC": "",
+        "MON_HCO": "",
+        "PROPIEDAD": "",
+        "INAUG": "",
+        "OBS": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.626638, -33.043821],
+          [-71.626587, -33.043842],
+          [-71.626231, -33.044014]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "25016962",
+        "name": "Ascensor Concepción",
+        "type": "funicular",
+        "FUNC": "REGULAR",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1880\/1883",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.626496, -33.040941],
+          [-71.626324, -33.041300]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "27107262",
+        "name": "Ascensor Villaseca",
+        "type": "funicular",
+        "FUNC": "",
+        "MON_HCO": "",
+        "PROPIEDAD": "",
+        "INAUG": "",
+        "OBS": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.629925, -33.031528],
+          [-71.630417, -33.030815],
+          [-71.630944, -33.030052]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "165070175",
+        "name": "ASCENSOR ESPIRITU SANTO",
+        "type": "funicular",
+        "FUNC": "IRREGULAR",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1911",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.621282, -33.047345],
+          [-71.621521, -33.047838]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "183404810",
+        "name": "Ascensor Florida (fuera de servicio)",
+        "type": "funicular",
+        "FUNC": "NO",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1906",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.619342, -33.049511],
+          [-71.620503, -33.050225]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "183404811",
+        "name": "Ascensor Larraín",
+        "type": "funicular",
+        "FUNC": "NO",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1909",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.602593, -33.046497],
+          [-71.601975, -33.046681]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "183404813",
+        "name": "Ascensor Mariposas",
+        "type": "funicular",
+        "FUNC": "NO",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1904",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.617291, -33.050030],
+          [-71.617337, -33.050118],
+          [-71.617744, -33.050590],
+          [-71.618111, -33.051121]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "183404814",
+        "name": "Ascensor Monjas",
+        "type": "funicular",
+        "FUNC": "NO",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1912",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.614183, -33.052214],
+          [-71.614561, -33.052475]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "183404815",
+        "name": "Ascensor San Agustín",
+        "type": "funicular",
+        "FUNC": "",
+        "MON_HCO": "",
+        "PROPIEDAD": "",
+        "INAUG": "",
+        "OBS": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.631905, -33.040530],
+          [-71.632352, -33.040401]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "183472859",
+        "name": "Ascensor Carlos van Buren",
+        "type": "funicular",
+        "FUNC": "SI",
+        "MON_HCO": "NO",
+        "PROPIEDAD": "SALUD",
+        "INAUG": "",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.610465, -33.051596],
+          [-71.610378, -33.051797]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "201851446",
+        "name": "ASCENSOR CORDILLERA",
+        "type": "funicular",
+        "FUNC": "NO",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1886",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.630553, -33.037998],
+          [-71.630215, -33.037791]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "201852345",
+        "name": "Ascensor Artilleria",
+        "type": "funicular",
+        "FUNC": "NO",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1893",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.630387, -33.032531],
+          [-71.630129, -33.033647]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "313295095",
+        "name": "Ascensor Barón",
+        "type": "funicular",
+        "FUNC": "SI",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "IMV",
+        "INAUG": "1906",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.603892, -33.042781],
+          [-71.603924, -33.042810],
+          [-71.603963, -33.042873],
+          [-71.604105, -33.043111],
+          [-71.604159, -33.043178]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "313510905",
+        "name": "Ascensor El Peral",
+        "type": "funicular",
+        "FUNC": "SI",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "IMV",
+        "INAUG": "1902",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.629448, -33.039609],
+          [-71.629191, -33.040200]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "337689439",
+        "name": "Ascensor Lecheros",
+        "type": "funicular",
+        "FUNC": "NO",
+        "MON_HCO": "SI",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1906\/1908",
+        "OBS": "NECESITA MEJORAMIENTO"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.603470, -33.044730],
+          [-71.602866, -33.044422]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "346643586",
+        "name": "Ascensor Cerro La Cruz",
+        "type": "rail",
+        "FUNC": "NO",
+        "MON_HCO": "NO",
+        "PROPIEDAD": "PRIVADO",
+        "INAUG": "1907\/1908",
+        "OBS": "NECESITA MEJORAMIENTO, DETENIDO DESDE 1992"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-71.613223, -33.052580],
+          [-71.612445, -33.053182]
+        ]
+      }
+    }
+
+  ]
+}

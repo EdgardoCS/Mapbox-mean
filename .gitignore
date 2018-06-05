@@ -1,0 +1,8 @@
+#ignore db files#
+
+src/db/
+src/xlsx
+
+#core files#
+node_modules/
+extras/

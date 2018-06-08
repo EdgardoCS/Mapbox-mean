@@ -1,6 +1,8 @@
 #ignore db files#
 
-src/
+src/db
+src/geodata
+src/xlsx
 
 #core files#
 node_modules/

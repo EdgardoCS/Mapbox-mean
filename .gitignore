@@ -2,6 +2,7 @@
 
 src/db/
 src/xlsx
+src/geodata
 
 #core files#
 node_modules/

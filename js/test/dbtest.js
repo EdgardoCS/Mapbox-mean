@@ -34,11 +34,11 @@ MongoClient.connect(url, {
     // console.log(res.insertedCount + " objetos insertados a coleccion music");
 
     /* FIND */
-    ndb.collection("music").find({}).toArray(function(err, result) {
-      if (err) throw err;
-      if (result.length == 0) {
-        console.log("coleccion no encontrada");
-      } else {
+    // ndb.collection("music").find({}).toArray(function(err, result) {
+    //   if (err) throw err;
+    //   if (result.length == 0) {
+    //     console.log("coleccion no encontrada");
+    //   } else {
         // console.log(result);
     //   }
 
@@ -49,11 +49,11 @@ MongoClient.connect(url, {
     // ndb.collection("music").find(query).toArray(function(err, result) {
     //   if (err) throw err;
 
-      var _l = result.length;
-      for (i = 0; i < _l; i++) {
-      console.log(result[i]);
-      }
-    }
+    //   var _l = result.length;
+    //   for (i = 0; i < _l; i++) {
+    //   console.log(result[i]);
+    //   }
+    // }
 
     /* SORT */
     // var orden = {
@@ -76,11 +76,11 @@ MongoClient.connect(url, {
     //   console.log("objetos borrados: " + obj.result.n);
 
     /* DELETE COLLECTION */
-    // ndb.collection("music").drop(function(err, delOK) {
-    //   if (err) throw err;
-    //   if (delOK) {
-    //     console.log("Coleccion music borrada");
-    //   }
+    ndb.collection("postrado").drop(function(err, delOK) {
+      if (err) throw err;
+      if (delOK) {
+        console.log("Coleccion postrado borrada");
+      }
 
     /* UPDATE */
     // var oldDisc = {

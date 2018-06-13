@@ -28,7 +28,6 @@ app.on('ready', function() {
 
 
   mainWindow.openDevTools();
-
   // mainWindow.loadURL('file://' + __dirname + '/src/html/mapIndex.html');
   // mainWindow.loadURL('file://' + __dirname + '/src/html/main.html');
   // mainWindow.loadURL('file://' + __dirname + '/src/html/welcome.html');

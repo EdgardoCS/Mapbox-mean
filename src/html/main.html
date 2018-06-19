@@ -6,6 +6,7 @@
   <title> SISTAM CESFAM Mena</title>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   <!--*************************** SOURCE ************************************-->
+
   <!--main-->
   <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js'></script>
   <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.css' rel='stylesheet' />
@@ -19,12 +20,8 @@
   <script src="../../node_modules/smalltalk/dist/smalltalk.poly.min.js"></script>
   <!--GoogleMaps-->
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
-  <script type="text/javascript"></script>
-  <!--XLSX-->
-  <script lang="javascript" src="../../node_modules/xlsx/dist/xlsx.full.min.js"></script>
   <!--JQuery-->
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <!-- <script src="../../node_modules/jquery/dist/jquery.js"></script> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" type="text/javascript"></script>
   <!--***********************************************************************-->
 
   <link rel="stylesheet" type="text/css" href="../../css/main/map.css">
@@ -56,13 +53,15 @@
           <nav class="menu">
             <ul>
               <li><a>
-          <input type="checkbox" id="item0" name="item-0" value="Item0">
-          <label for="item0">Adultos Mayores Adscritos</label></a></li>
+          <input type="checkbox" id="cli0" name="cli-0">
+          <label for="cli0">Adultos Mayores Adscritos</label>
+              </a></li>
               <li class="submenu"><b>Programas de salud</b>
                 <ul>
                   <li><a>
-                    <input type="checkbox" id="item1" name="item-1">
-                    <label for="item1">Postrado</label></a></li>
+                    <input type="checkbox" id="cli1" name="cli-1">
+                    <label for="cli1">Inmovilizado severo</label>
+                  </a></li>
                 </ul>
               </li>
               <!-- <li class="submenu"><b>Herramientas de intervención</b>
@@ -86,32 +85,40 @@
                   <ul>
                     <li><a>
                       <input type="checkbox" id="sig2" name="sig-2">
-                      <label for="sig2">Sector 18</label></a></li>
+                      <label for="sig2">Sector 18</label>
+                    </a></li>
                     <li><a>
                       <input type="checkbox" id="sig3" name="sig-3">
-                      <label for="sig3">Sector 27</label></a></li>
+                      <label for="sig3">Sector 27</label>
+                    </a></li>
                   </ul>
                 </li>
                 <li class="deploymenu"><a>Sub-Sectores<span class="icon-down-open"></a>
                   <ul>
                     <li><a>
                           <input type="checkbox" id="ssig0" name="ssig-0">
-                          <label for="ssig0">Sector 18-A</label></a></li>
+                          <label for="ssig0">Sector 18-A</label>
+                    </a></li>
                     <li><a>
                           <input type="checkbox" id="ssig1" name="sig-1">
-                          <label for="ssig1">Sector 18-B</label></a></li>
+                          <label for="ssig1">Sector 18-B</label>
+                    </a></li>
                     <li><a>
                           <input type="checkbox" id="ssig2" name="sig-2">
-                          <label for="ssig2">Sector 18-C</label></a></li>
+                          <label for="ssig2">Sector 18-C</label>
+                    </a></li>
                     <li><a>
                         <input type="checkbox" id="ssig3" name="sig-3">
-                        <label for="ssig3">Sector 27-A</label></a></li>
+                        <label for="ssig3">Sector 27-A</label>
+                    </a></li>
                     <li><a>
                         <input type="checkbox" id="ssig4" name="sig-4">
-                        <label for="ssig4">Sector 27-B</label></a></li>
+                        <label for="ssig4">Sector 27-B</label>
+                    </a></li>
                     <li><a>
                         <input type="checkbox" id="ssig5" name="sig-5">
-                        <label for="ssig5">Sector 27-C</label></a></li>
+                        <label for="ssig5">Sector 27-C</label>
+                    </a></li>
                   </ul>
                 </li>
               </li>
@@ -120,7 +127,8 @@
               <li class="submenu"><b>Levantamiento territorial</b>
                 <li><a>
                       <input type="checkbox" id="item1" name="item-1">
-                      <label for="item1">Postrado</label></a></li>
+                      <label for="item1">Division politico Administrativa</label>
+                </a></li>
               </li>
             </ul>
           </nav>
@@ -137,16 +145,21 @@
     const path = require('path');
   </script>
 
-  <script src="../../js/ucontrol/menu.js"></script>
-  <script src="../../js/main/main.js"></script>
-  <script src="../../js/main/load.js"></script>
-  <script src="../../js/main/geo.js"></script>
-  <script src="../../js/main/load_am.js"></script>
-  <script src="../../js/main/load_inm.js"></script>
-  <!-- <script src="../../js/main/load_rec.js"></script> -->
-  <script src="../../js/main/load_sector.js"></script>
-  <script src="../../js/main/load_subsector18.js"></script>
-  <script src="../../js/main/load_subsector27.js"></script>
+  <!--************************** MONGO DB ***********************************-->
+  <!-- <script src="../../js/main/xlsx/cleardb.js"></script> -->
+  <!-- <script src="../../js/main/xlsx/read&write.js"></script> -->
+  <!--**************************** Main *************************************-->
+  <script src="../../js/main/load/main.js"></script>
+  <script src="../../js/main/load/geo.js"></script>
+  <!--*************************** Query *************************************-->
+  <script src="../../js/functions/query/query_am.js"></script>
+
+  <!--************************** Deploymenu *********************************-->
+  <!-- <script src="../../js/main/user_control/ucontrol/menu.js"></script> -->
+  <!-- <script src="../../js/main/load/load_mena.js"></script> -->
+  <!-- <script src="../../js/main/load/load_sector.js"></script> -->
+  <!-- <script src="../../js/main/load/load_subsector18.js"></script> -->
+  <!-- <script src="../../js/main/load/load_subsector27.js"></script> -->
 
 </body>
 

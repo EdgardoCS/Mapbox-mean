@@ -1,4 +1,5 @@
 function sistam_window() {
+  
   const remote = require('electron').remote;
   const BrowserWindow = remote.BrowserWindow;
 

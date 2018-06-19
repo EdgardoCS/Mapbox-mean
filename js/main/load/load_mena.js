@@ -23,4 +23,6 @@ var mena = {
     "circle-color": "#69B5B2"
   },
 };
-map.addLayer(mena);
+map.on('load', function() {
+  map.addLayer(mena);
+});

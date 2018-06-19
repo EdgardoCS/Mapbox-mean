@@ -28,10 +28,11 @@ app.on('ready', function() {
 
 
   mainWindow.openDevTools();
-  // mainWindow.loadURL('file://' + __dirname + '/src/html/mapIndex.html');
-  // mainWindow.loadURL('file://' + __dirname + '/src/html/main.html');
+
+  mainWindow.loadURL('file://' + __dirname + '/src/html/main.html');
   // mainWindow.loadURL('file://' + __dirname + '/src/html/welcome.html');
-  mainWindow.loadURL('file://' + __dirname + '/src/html/test/test.html');
+  // mainWindow.loadURL('file://' + __dirname + '/src/html/mapIndex.html');
+  // mainWindow.loadURL('file://' + __dirname + '/src/html/test/test.html');
 
   mainWindow.webContents.on('will-navigate', (event, url) => {
     event.preventDefault()

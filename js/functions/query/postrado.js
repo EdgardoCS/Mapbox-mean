@@ -78,8 +78,6 @@ MongoClient.connect(url, {
         console.log(result[i]);
       }
     }
-  // })
   db.close();
-  // console.log(obj);
   });
 });

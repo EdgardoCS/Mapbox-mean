@@ -5,7 +5,7 @@ goToPath = path.join(__dirname, '../../src/xlsx/');
 const workSheetsFromFile = xlsx.parse(goToPath + 'AM_Definitivo.xlsx');
 
 var data = workSheetsFromFile[5].data;
-var coleccion = "AmMena";
+var coleccion = "maestro_AmMena";
 
 var _l = data.length;
 var usuarios = [];
@@ -18,12 +18,10 @@ for (i = 1; i < _l; i++) {
       apellidoMaterno: data[i][2],
       nombres: data[i][3],
       sexo: data[i][8],
-      geolocalizacion: {
-        direccion: data[i][4],
-        longitud: data[i][5],
-        latitud: data[i][6],
-        subsector: data[i][7],
-      },
+      direccion: data[i][4],
+      longitud: data[i][5],
+      latitud: data[i][6],
+      subsector: data[i][7],
     },
   };
 };

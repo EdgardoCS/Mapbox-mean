@@ -1,29 +1,5 @@
-var rut;
-var nombres;
-var apellidoMaterno;
-var apellidoPaterno;
-var longitud;
-var latitud;
-var subsector;
-var sexo;
-var direccion;
-var patologias;
 
-var mena_maestro_am_array = [];
-var mena_inm_array = [];
-var mena_tar_array = [];
-
-var mena_inm_source;
-var mena_inm_layer;
-
-var mena_am_source;
-var mena_am_layer;
-
-var mena_tar_source;
-var mena_tar_layer;
-
-
-setFeatures = function(result) {
+setComolehades = function(result) {
   var pointFeatures;
 
   longitud = result.paciente.longitud;
@@ -54,15 +30,4 @@ setFeatures = function(result) {
     },
   }
   return pointFeatures;
-}
-
-makeGeo = function(features) {
-  var geo = {
-    "type": "geojson",
-    "data": {
-      "type": "FeatureCollection",
-      "features": features
-    },
-  }
-  return geo;
 }

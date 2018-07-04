@@ -18,14 +18,13 @@ app.on('ready', function() {
   mainWindow = new BrowserWindow({
 
     width: 1800,
-    height: 800,
+    height: 1000,
     minWidth: 420,
     minHeight: 480,
     center: true,
     autoHideMenuBar: true,
     fullscreen: false
   });
-
 
   mainWindow.openDevTools();
 

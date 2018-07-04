@@ -60,7 +60,13 @@
                 <ul>
                   <li><a>
                     <input type="checkbox" id="cli1" name="cli-1">
-                    <label for="cli1">Inmovilizado severo</label>
+                    <label for="cli1">PSCV</label>
+                  </a></li>
+                </ul>
+                <ul>
+                  <li><a>
+                    <input type="checkbox" id="cli2" name="cli-2">
+                    <label for="cli2">Gestor de casos</label>
                   </a></li>
                 </ul>
               </li>
@@ -146,13 +152,19 @@
   </script>
 
   <!--************************** MONGO DB ***********************************-->
-  <!-- <script src="../../js/main/xlsx/cleardb.js"></script> -->
-  <!-- <script src="../../js/main/xlsx/read&write.js"></script> -->
-  <!--**************************** Main *************************************-->
   <script src="../../js/main/load/main.js"></script>
+  <!-- <script src="../../js/main/xlsx/cleardb.js"></script> -->
+  <!-- <script src="../../js/main/xlsx/read&write_master.js"></script> -->
+  <!-- <script src="../../js/main/xlsx/read&write_slave.js"></script> -->
+  <!--**************************** Main *************************************-->
   <script src="../../js/main/load/geo.js"></script>
+  <script src="../../js/main/load/geom_s.js"></script>
   <!--*************************** Query *************************************-->
-  <script src="../../js/functions/query/query_am.js"></script>
+  <script src="../../js/functions/query/query_master.js"></script>
+  <script src="../../js/functions/query/query_disjoin.js"></script>
+
+  <!-- <script src="../../js/functions/query/query_join.js"></script> -->
+  <!-- <script src="../../js/functions/query/query_slave.js"></script> -->
 
   <!--************************** Deploymenu *********************************-->
   <!-- <script src="../../js/main/user_control/ucontrol/menu.js"></script> -->
@@ -160,6 +172,7 @@
   <!-- <script src="../../js/main/load/load_sector.js"></script> -->
   <!-- <script src="../../js/main/load/load_subsector18.js"></script> -->
   <!-- <script src="../../js/main/load/load_subsector27.js"></script> -->
+
 
 </body>
 

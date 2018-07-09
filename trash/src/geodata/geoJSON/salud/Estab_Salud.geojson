@@ -1,0 +1,708 @@
+{
+  "type": "FeatureCollection",
+  "name": "establecimientos_salud",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-011",
+        "NomEstE": "PRAIS (S.S Valparaíso San Antonio)",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Programa de Reparación y Atención Integral de Salud",
+        "Certifi": "S\/C",
+        "Depend": "Servicio de Salud",
+        "Nivel": "No Aplica",
+        "ViaAcceso": "Avenida",
+        "Direcc": "Brasil 1435 Valparaiso",
+        "Fono": "S\/N",
+        "CoordX19": "255236.160000",
+        "CoordY19": "6340748.520000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.621091, -33.044294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-095",
+        "NomEstE": "Vacunatorio SEREMI de Salud de Valparaíso",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Vacunatorio",
+        "Certifi": "S\/C",
+        "Depend": "Autoridad Sanitaria",
+        "Nivel": "Primario",
+        "ViaAcceso": "Avenida",
+        "Direcc": "Brasil 1435 Valparaiso",
+        "Fono": "32-2576716",
+        "CoordX19": "255236.160000",
+        "CoordY19": "6340748.520000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.621091, -33.044294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-150",
+        "NomEstE": "Centro de Sangre y Tejidos IV y V Región",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Centro de Diagnóstico y Terapéutico",
+        "Certifi": "S\/C",
+        "Depend": "Servicio de Salud",
+        "Nivel": "Secundario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Blas Cuevas  985 Valparaiso",
+        "Fono": "32-2257660",
+        "CoordX19": "256316.150000",
+        "CoordY19": "6339847.230000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.609776, -33.052658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-151",
+        "NomEstE": "CRS-Odontológica",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Centro de Referencia de Salud",
+        "Certifi": "S\/C",
+        "Depend": "Servicio de Salud",
+        "Nivel": "Secundario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Brasil 1435 Valparaiso",
+        "Fono": "32-2257659",
+        "CoordX19": "255198.630000",
+        "CoordY19": "6340768.930000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.621487, -33.044101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-300",
+        "NomEstE": "CESFAM-Placeres",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Colo-Colo S\/N Valparaiso",
+        "Fono": "800500513",
+        "CoordX19": "258756.470000",
+        "CoordY19": "6340693.570000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.583441, -33.045575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-301",
+        "NomEstE": "CGU- Esperanza",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Galvarino 7 Valparaiso",
+        "Fono": "800500509",
+        "CoordX19": "258801.940000",
+        "CoordY19": "6342028.150000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.582603, -33.033559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-302",
+        "NomEstE": "CGU- Barón",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Blanco Viel 661 Valparaiso",
+        "Fono": "800500507",
+        "CoordX19": "257117.520000",
+        "CoordY19": "6341382.430000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.600794, -33.039003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-303",
+        "NomEstE": "CESFAM-Reina Isabel II",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Avenida",
+        "Direcc": "Washington 1926 Valparaiso",
+        "Fono": "800500512",
+        "CoordX19": "257950.630000",
+        "CoordY19": "6338969.690000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.592518, -33.060930]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-304",
+        "NomEstE": "CGU- Placilla (Valparaíso)",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Avenida",
+        "Direcc": "Central S\/N Valparaiso",
+        "Fono": "800500510",
+        "CoordX19": "260557.660803",
+        "CoordY19": "6333274.888890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.566111, -33.112824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-305",
+        "NomEstE": "CESFAM-Jean y Marie Thierry",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Servicio de Salud",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Blas Cuevas  985 Valparaiso",
+        "Fono": "32-2571650",
+        "CoordX19": "256296.820000",
+        "CoordY19": "6339832.810000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.609986, -33.052783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-306",
+        "NomEstE": "CESFAM-Las Cañas",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Los Alerces S\/N Valparaiso",
+        "Fono": "800500511",
+        "CoordX19": "256580.630000",
+        "CoordY19": "6339176.440000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.607124, -33.058761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-307",
+        "NomEstE": "CGU- Marcelo Mena",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Avenida",
+        "Direcc": "Alemania 5360 Valparaiso",
+        "Fono": "800500512",
+        "CoordX19": "254300.180000",
+        "CoordY19": "6340195.050000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.631253, -33.049070]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-308",
+        "NomEstE": "CGU- Plaza Justicia",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Servicio de Salud",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Plaza Justicia 99 Valparaiso",
+        "Fono": "800500523",
+        "CoordX19": "254455.820000",
+        "CoordY19": "6341274.010000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.629299, -33.039383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-309",
+        "NomEstE": "CGU- Cordillera",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Castillo 656 Valparaiso",
+        "Fono": "800500508",
+        "CoordX19": "253768.850000",
+        "CoordY19": "6340832.980000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.636767, -33.043202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-311",
+        "NomEstE": "CGU- Quebrada Verde",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Quebrada Verde 1405 Valparaiso",
+        "Fono": "32-2571503",
+        "CoordX19": "252923.670000",
+        "CoordY19": "6340940.410000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.645780, -33.042042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-312",
+        "NomEstE": "CGU- Puertas Negras",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Montedónico S\/N Valparaiso",
+        "Fono": "800500514",
+        "CoordX19": "253603.160000",
+        "CoordY19": "6339126.660000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.638998, -33.058539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-330",
+        "NomEstE": "CGU- Rodelillo",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Tierras Rojas S\/N Valparaiso",
+        "Fono": "800500517",
+        "CoordX19": "259365.380000",
+        "CoordY19": "6339517.600000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.577235, -33.056307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-334",
+        "NomEstE": "CESFAM-Padre Damián Molokai",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "Centro de Salud Familiar",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Cabritería Norte 2055 Valparaiso",
+        "Fono": "800500518",
+        "CoordX19": "260821.170000",
+        "CoordY19": "6339412.380000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.561684, -33.057576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-335",
+        "NomEstE": "CGU- Policlínica Diocesana",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Consultorio General Urbano",
+        "Certifi": "S\/C",
+        "Depend": "Otra Institución",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Chacabuco 1701 Valparaiso",
+        "Fono": "S\/N",
+        "CoordX19": "255462.560000",
+        "CoordY19": "6340570.490000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.618716, -33.045949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-711",
+        "NomEstE": "CECOF-Porvenir Bajo",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Centro Comunitario de Salud Familiar",
+        "Certifi": "S\/C",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Contulmo S\/N Valparaiso",
+        "Fono": "S\/N",
+        "CoordX19": "252515.810000",
+        "CoordY19": "6341846.730000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.649899, -33.033783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-800",
+        "NomEstE": "SAPU-Placeres",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Servicio de Atención Primaria de Urgencia",
+        "Certifi": "S\/C",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Manuel Casanova S\/N Valparaiso",
+        "Fono": "32-2136502",
+        "CoordX19": "258756.470000",
+        "CoordY19": "6340693.570000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.583441, -33.045575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-804",
+        "NomEstE": "SAPU-Placilla",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Servicio de Atención Primaria de Urgencia",
+        "Certifi": "S\/C",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Avenida",
+        "Direcc": "Octava S\/N Valparaiso",
+        "Fono": "32-2136133",
+        "CoordX19": "260557.660803",
+        "CoordY19": "6333274.888890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.566111, -33.112824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-811",
+        "NomEstE": "SAPU-Quebrada Verde",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Servicio de Atención Primaria de Urgencia",
+        "Certifi": "S\/C",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Quebrada Verde  1405 Valparaiso",
+        "Fono": "32-2136200",
+        "CoordX19": "252923.670000",
+        "CoordY19": "6340940.410000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.645780, -33.042042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-902",
+        "NomEstE": "SAPU-Marcelo Mena",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Servicio de Atención Primaria de Urgencia",
+        "Certifi": "S\/C",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Avenida",
+        "Direcc": "Alemania 5360 Valparaiso",
+        "Fono": "32-2250228",
+        "CoordX19": "254300.180000",
+        "CoordY19": "6340195.050000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.631253, -33.049070]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-903",
+        "NomEstE": "SAPU-Reina Isabel II",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Servicio de Atención Primaria de Urgencia",
+        "Certifi": "S\/C",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Avenida",
+        "Direcc": "Washington 1926 Valparaiso",
+        "Fono": "32-2136700",
+        "CoordX19": "257950.630000",
+        "CoordY19": "6338969.690000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.592518, -33.060930]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CodEst": "06-401",
+        "NomEstE": "PSR-Laguna Verde",
+        "CodReg": "5.000000",
+        "NomReg": "De Valparaíso",
+        "CodSS": "6.000000",
+        "NomSS": "Servicio de Salud Valparaíso San Antonio",
+        "CodCom": "5101.000000",
+        "NomCom": "Valparaiso",
+        "Pertenen": "Perteneciente",
+        "TipoEst": "Posta de Salud Rural",
+        "Certifi": "S\/C",
+        "Depend": "Municipal",
+        "Nivel": "Primario",
+        "ViaAcceso": "Calle",
+        "Direcc": "Galvarino S\/N Valparaiso",
+        "Fono": "S\/N",
+        "CoordX19": "251522.000000",
+        "CoordY19": "6334608.139320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.662495, -33.098780]
+      }
+    }
+
+  ]
+}

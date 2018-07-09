@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+  <title> SISTAM CESFAM Mena</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="../../node_modules/jquery/dist/jquery.js"></script>
+  <!--***********************************************************************-->
+
+  <link rel="stylesheet" type="text/css" href="../../css/main/map.css">
+  <link rel="stylesheet" type="text/css" href="../../css/main/fontello.css">
+  <link rel="stylesheet" type="text/css" href="../../css/main/sidebar.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+
+<body>
+
+  <header>
+    <nav class="uppermenu">
+      <ul>
+        <h1>SISTAM</h1>
+        <div class="photo">
+          <img src="../../extras/pictures/logoG.jpg" alt="samus" style="width:100%;height:50%px;">
+        </div>
+      </ul>
+    </nav>
+    <nav class="boxmenu">
+      <h2>Información clínica</h2>
+      <ul>
+        <nav class="menu">
+          <ul>
+            <li><a>
+          <input type="checkbox" id="item0" name="item-0" value="Item0">
+          <label for="item0">AM</label>
+        </a></li>
+            <li class="submenu"><a>Titulo 2<span class="icon-down-open"</span></a>
+              <ul>
+                <li><a>
+              <input type="checkbox" id="item1" name="item-1" value="Item1">
+              <label for="item1">Apple</label>
+            </a></li>
+                <li><a>
+              <input type="checkbox" id="item2" name="item-2" value="Item2">
+              <label for="item2">Pineapple</label>
+            </a></li>
+              </ul>
+            </li>
+            <li class="submenu"><a>Titulo 3<span class="icon-down-open"</span></a>
+              <ul>
+                <li><a>
+              <input type="checkbox" id="item3" name="item-3" value="Item3">
+              <label for="item3">Watermelon</label>
+            </a></li>
+                <li><a>
+              <input type="checkbox" id="item4" name="item-4" value="Item4">
+              <label for="item4">Orange</label>
+            </a></li>
+              </ul>
+            </li>
+            <li><a>Titulo 4</a></li>
+          </ul>
+        </nav>
+      </ul>
+    </nav>
+  </header>
+
+  <script>
+    if (typeof module === 'object') {
+      window.module = module;
+      module = undefined;
+    }
+    const path = require('path');
+  </script>
+
+  <script src="../../js/ucontrol/menu.js"></script>
+
+</body>
+
+</html>

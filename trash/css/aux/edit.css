@@ -1,0 +1,22 @@
+#deleteFeature {
+  position: absolute;
+  top: 110px;
+  right: 10px;
+  z-index: 100;
+  background-color: white;
+  color: black;
+  padding: 6px;
+  border-radius: 4px;
+  font-family: 'Helvetica Neue';
+  cursor: pointer;
+  font-size: 15px;
+  text-decoration: none;
+  height: 15px;
+  width: 15px;
+}
+
+#deleteFeature:hover{
+  background-color: #ddd;
+}
+
+}

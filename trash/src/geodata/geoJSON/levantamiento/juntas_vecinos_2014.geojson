@@ -1,0 +1,5310 @@
+{
+  "type": "FeatureCollection",
+  "name": "juntas_vecinos",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "1",
+        "Junta_de_V": "J.V. 42 John Kennedy Segundo Sector",
+        "Uv": "42.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Av Jose Maria Caro 505",
+        "Obs_": "",
+        "FOTO": "181.JPG",
+        "IDEM": "1",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/181.JPG",
+        "No": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.651856, -33.041014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "2",
+        "Junta_de_V": "J.V. 43 Población Presidente Kennedy",
+        "Uv": "43.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Jose Serey nª 260",
+        "Obs_": "",
+        "FOTO": "182.JPG",
+        "IDEM": "2",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/182.JPG",
+        "No": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.652504, -33.044854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "3",
+        "Junta_de_V": "J.V. 43 B  Arrecifes",
+        "Uv": "43.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "blok b_2 depto 41  poblacion los arrecifes",
+        "Obs_": "no tiene sede NO SE JUNTAN . DIRECCION PRESIDENTA",
+        "FOTO": "183.JPG",
+        "IDEM": "3",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/183.JPG",
+        "No": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.654433, -33.045210]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "4",
+        "Junta_de_V": "J.V. 44 4º Sector Corvi Servicio Seguro Social",
+        "Uv": "44.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "pje 7 casa 206 4ª  sector",
+        "Obs_": "los copihues 27 4ª sector",
+        "FOTO": "184.JPG",
+        "IDEM": "4",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/184.JPG",
+        "No": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.650149, -33.049644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "5",
+        "Junta_de_V": "J.V. 45 4º Sector Corvi El Triunfo",
+        "Uv": "45.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Pje 29, Casa 331, 4to sector, Plya ancha",
+        "Obs_": "las    araucariasS\/N 4ª sector",
+        "FOTO": "185.JPG",
+        "IDEM": "5",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/185.JPG",
+        "No": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.648888, -33.046649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "6",
+        "Junta_de_V": "J.V. 45-A El Alamo",
+        "Uv": "45.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Surinam 78, Pya. Ancha",
+        "Obs_": "No tiene sede",
+        "FOTO": "186.JPG",
+        "IDEM": "6",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/186.JPG",
+        "No": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.649054, -33.044703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "7",
+        "Junta_de_V": "J.V. 84 Aurora de Chile",
+        "Uv": "84.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "calle la polvora Nª3",
+        "Obs_": "",
+        "FOTO": "187.JPG",
+        "IDEM": "7",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/187.JPG",
+        "No": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.645778, -33.052428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "9",
+        "Junta_de_V": "J.V. 85 Puertas Negras",
+        "Uv": "85.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Del Timonel Nº 17 Pobl. Puertas Negras",
+        "Obs_": "del timonel S\/N ptas negras",
+        "FOTO": "189.JPG",
+        "IDEM": "8",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/189.JPG",
+        "No": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.645069, -33.056820]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "10",
+        "Junta_de_V": "J.V. 124 3º Sector",
+        "Uv": "124.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Pje. 4 Casa Nº 252 3º Sector (presidenta)",
+        "Obs_": "sede ignacio silva s\/n",
+        "FOTO": "190.JPG",
+        "IDEM": "9",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/190.JPG",
+        "No": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.648953, -33.052660]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "11",
+        "Junta_de_V": "J.V. 138 Valle Verde",
+        "Uv": "138.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "baden powell 3541 pobl valle verde (presidenta)",
+        "Obs_": "sin sede",
+        "FOTO": "191.JPG",
+        "IDEM": "10",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/191.JPG",
+        "No": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.644170, -33.056840]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "12",
+        "Junta_de_V": "J.V. 139 Montedonico Lautaro",
+        "Uv": "139.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Vargas stoller lote 7 montedonico",
+        "Obs_": "",
+        "FOTO": "192.JPG",
+        "IDEM": "11",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/192.JPG",
+        "No": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.639690, -33.056034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "13",
+        "Junta_de_V": "J.V. 139-A El Mirador",
+        "Uv": "139.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Vargas Stoller MZ 5 casa 5 Montedónico (tesorera)",
+        "Obs_": "SIN SEDE",
+        "FOTO": "193.JPG",
+        "IDEM": "12",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/193.JPG",
+        "No": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.641484, -33.054369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "14",
+        "Junta_de_V": "J.V. 146 Teniente Ignacio Serrano",
+        "Uv": "146.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "calle Iquique 412 5ª sector poblacion teniente Ignacio Serreno",
+        "Obs_": "",
+        "FOTO": "194.JPG",
+        "IDEM": "13",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/194.JPG",
+        "No": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.653552, -33.049383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "16",
+        "Junta_de_V": "J.V. 147 Alemania Federal",
+        "Uv": "147.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "luis Emilio recabarren nª3 6ªsector",
+        "Obs_": "",
+        "FOTO": "196.JPG",
+        "IDEM": "14",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/196.JPG",
+        "No": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.652076, -33.051213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "15",
+        "Junta_de_V": "J.V. 146-A Nueva Alborada  5º Sector Ampliacion",
+        "Uv": "146.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Block-7, Depto 201 (presidenta)",
+        "Obs_": "cabancha S\/N  5ª sector (sede)",
+        "FOTO": "195.JPG",
+        "IDEM": "15",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/195.JPG",
+        "No": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.654717, -33.047995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "17",
+        "Junta_de_V": "J.V. 171 El Buen Pastor",
+        "Uv": "171.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "1",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "luis guevara hortuzar\/ guambli poblacion  el triunfo pya ancha",
+        "Obs_": "",
+        "FOTO": "197.JPG",
+        "IDEM": "16",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/197.JPG",
+        "No": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.646839, -33.044714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "18",
+        "Junta_de_V": "J.V. 172 El Libertador Simón Bolívar",
+        "Uv": "172.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Carabobo 2735, Pya Ancha (presidenta)",
+        "Obs_": "No tiene sede",
+        "FOTO": "198.JPG",
+        "IDEM": "17",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/198.JPG",
+        "No": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.645940, -33.050600]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "19",
+        "Junta_de_V": "J.V. 174  José Santos Tornero",
+        "Uv": "174.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Block-16 Depto-44 3º Sector P. Ancha (presidenta)",
+        "Obs_": "calle B S\/N (sede)",
+        "FOTO": "199.JPG",
+        "IDEM": "18",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/199.JPG",
+        "No": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.650592, -33.051319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "20",
+        "Junta_de_V": "J.V. 175 Augusto Guevara",
+        "Uv": "175.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "20",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Estrella Polar Nº 55 sede",
+        "Obs_": "Estrella polar S\/N poblacion augusto guevara",
+        "FOTO": "200.JPG",
+        "IDEM": "19",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/200.JPG",
+        "No": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.645552, -33.054928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "21",
+        "Junta_de_V": "J.V. 177 El Molino",
+        "Uv": "177.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "Pje 1, Casa 59, 6to sector, Pob. El molino (presidenta)",
+        "Obs_": "sin sede",
+        "FOTO": "201.JPG",
+        "IDEM": "20",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/201.JPG",
+        "No": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.649124, -33.055761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "22",
+        "Junta_de_V": "J.V. 192 Joaquin Edwards Bello",
+        "Uv": "192.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "P Edwards bello Calle la bolsa c\/ mensajero poniente s\/N",
+        "Obs_": "",
+        "FOTO": "202.JPG",
+        "IDEM": "21",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/202.JPG",
+        "No": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.638597, -33.059587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "23",
+        "Junta_de_V": "J.V. 193 Joaquín Lepeley",
+        "Uv": "193.000000",
+        "Sector": "7-B",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "J lepeley nª1",
+        "Obs_": "Budapest \/PJLepeley",
+        "FOTO": "203.JPG",
+        "IDEM": "22",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/203.JPG",
+        "No": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.640637, -33.059043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "25",
+        "Junta_de_V": "J.V. 42- E Elemental",
+        "Uv": "42.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA ARANEDA",
+        "Direccio_n": "J. Alvarez Romero 41",
+        "Obs_": "",
+        "FOTO": "205.JPG",
+        "IDEM": "23",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/205.JPG",
+        "No": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.654033, -33.039531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "26",
+        "Junta_de_V": "J.V. Los Ventisqueros San Rafael Primer Sector",
+        "Uv": "42.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "26",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "San rafael Nº 1060",
+        "Obs_": "",
+        "FOTO": "229.JPG",
+        "IDEM": "24",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/229.JPG",
+        "No": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.657086, -33.040606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 13",
+        "Uv": "13.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Merced",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "TUCAPEL Nº 168  Cº MERCED",
+        "Obs_": "SIN SEDE.SE DECLARA VIGENTE PERO SE DECONOCE SI ES ACTIVA",
+        "FOTO": "100.JPG",
+        "IDEM": "25",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/100.JPG",
+        "No": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.605016, -33.055288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 14",
+        "Uv": "14.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Merced",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "PAJONAL Nº820",
+        "Obs_": "SIN SEDE.SE DECLARA VIGENTE PERO SE DECONOCE SI ES ACTIVA",
+        "FOTO": "101.JPG",
+        "IDEM": "26",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/101.JPG",
+        "No": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.604974, -33.057714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 17",
+        "Uv": "17.000000",
+        "Sector": "4",
+        "CERRO_SECT": "El Litre",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "STA TERESA Nº60",
+        "Obs_": "SEDE: POBLACION NAPOLI EL LITRE",
+        "FOTO": "104.JPG",
+        "IDEM": "27",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/104.JPG",
+        "No": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.609597, -33.055943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 128",
+        "Uv": "128.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Almendral",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "12 DE FEBRERO 216",
+        "Obs_": "SIN SEDE.SE DECLARA VIGENTE PERO SE DECONOCE SI ES ACTIVA",
+        "FOTO": "112.JPG",
+        "IDEM": "28",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/112.JPG",
+        "No": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.605869, -33.045616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 152",
+        "Uv": "152.000000",
+        "Sector": "4",
+        "CERRO_SECT": "La Cruz",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "VALLEJO 55 DEPTO 15",
+        "Obs_": "SIN SEDE.SE DECLARA VIGENTE PERO SE DECONOCE SI ES ACTIVA",
+        "FOTO": "113.JPG",
+        "IDEM": "29",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/113.JPG",
+        "No": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.612422, -33.051048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 186",
+        "Uv": "186.000000",
+        "Sector": "4",
+        "CERRO_SECT": "El Litre",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "RUIZ TAGLE 380",
+        "Obs_": "SE DECLARA VIGENTE PERO SE DECONOCE SI ES ACTIVA",
+        "FOTO": "116.JPG",
+        "IDEM": "30",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/116.JPG",
+        "No": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.611777, -33.057682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  29 Población Manuel Montt",
+        "Uv": "29.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Detective Barahona 341 Palya Ancha",
+        "Obs_": "?",
+        "FOTO": "157.JPG",
+        "IDEM": "31",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/157.JPG",
+        "No": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.641686, -33.040964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 34 Cerro Santo Domingo",
+        "Uv": "34.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Santo Domingo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "CARLOS NEBEL Nº8 CºSANTO DOMINGO",
+        "Obs_": "SEDE: Fco Echaurren",
+        "FOTO": "162.JPG",
+        "IDEM": "32",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/162.JPG",
+        "No": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.634533, -33.034586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 35 Cerro Toro",
+        "Uv": "35.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Toro",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Plutarco 93 Cº Toro",
+        "Obs_": "SIN SEDE",
+        "FOTO": "164.JPG",
+        "IDEM": "33",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/164.JPG",
+        "No": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.635330, -33.038334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 79 Cerro Cordillera Parte Baja",
+        "Uv": "79.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "VILLAGRAN 186 CERRO CORDILLERA",
+        "Obs_": "SIN SEDE",
+        "FOTO": "167.JPG",
+        "IDEM": "34",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/167.JPG",
+        "No": "34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.632257, -33.038619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 83 Villa Pratt",
+        "Uv": "83.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "POB.VILLA PRAT 50 PJE.IMPERIAL",
+        "Obs_": "SIN SEDE",
+        "FOTO": "169.JPG",
+        "IDEM": "35",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/169.JPG",
+        "No": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.643951, -33.040452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 103-A Sector 5",
+        "Uv": "167.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Yungay",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Gumercindo Diaz 297",
+        "Obs_": "SIN SEDE",
+        "FOTO": "170.JPG",
+        "IDEM": "36",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/170.JPG",
+        "No": "36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.644862, -33.044441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 104 Cañería y Adyacentes",
+        "Uv": "104.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Calle Meteoro 311 Cordillera",
+        "Obs_": "Psaje Egaña sn Cordillera",
+        "FOTO": "171.JPG",
+        "IDEM": "37",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/171.JPG",
+        "No": "37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.636920, -33.044489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 106 Población San Martín",
+        "Uv": "106.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Puerto Williams 604",
+        "Obs_": "607",
+        "FOTO": "173.JPG",
+        "IDEM": "38",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/173.JPG",
+        "No": "38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.643615, -33.048631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 105 Cordillera Central",
+        "Uv": "105.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "JIMENEZ 188 Cº CORDILLERA",
+        "Obs_": "SIN SEDE",
+        "FOTO": "172.JPG",
+        "IDEM": "39",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/172.JPG",
+        "No": "39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.635520, -33.044250]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 107 Villagran Bajo",
+        "Uv": "107.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Meteoro 899",
+        "Obs_": "?",
+        "FOTO": "174.JPG",
+        "IDEM": "40",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/174.JPG",
+        "No": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.638923, -33.046825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 134 Cerro Cordillera",
+        "Uv": "134.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "San Fco. 266 depto. 43",
+        "Obs_": "SIN SEDE",
+        "FOTO": "176.JPG",
+        "IDEM": "41",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/176.JPG",
+        "No": "41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.633740, -33.038185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 167 Simón Bolivar Alto",
+        "Uv": "167.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Psje-B Casa-24\/A Pobl. Diego Portales",
+        "Obs_": "SIN SEDE",
+        "FOTO": "177.JPG",
+        "IDEM": "42",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/177.JPG",
+        "No": "42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.645736, -33.047655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 169 La Amistad",
+        "Uv": "169.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Neptuno 307 Cordillera",
+        "Obs_": "Ascensor San Agustin",
+        "FOTO": "179.JPG",
+        "IDEM": "43",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/179.JPG",
+        "No": "43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.633562, -33.040373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 183 Pobl. Marquez y Ampliación",
+        "Uv": "183.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Arrayán_Sto Domingo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Block B depto 18",
+        "Obs_": "SIN SEDE",
+        "FOTO": "180.JPG",
+        "IDEM": "44",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/180.JPG",
+        "No": "44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.632965, -33.034779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 15",
+        "Uv": "15.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Las Cañas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "JUAN FERNANDEZ",
+        "Obs_": "SIN SEDE.SE DECLARA VIGENTE PERO SE DECONOCE SI ES ACTIVA",
+        "FOTO": "102.JPG",
+        "IDEM": "45",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/102.JPG",
+        "No": "45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.609497, -33.063383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 15-A",
+        "Uv": "15.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Las Cañas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "JUAN FERNANDEZ 744",
+        "Obs_": "pasaje mañio con el vergel",
+        "FOTO": "103.JPG",
+        "IDEM": "46",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/103.JPG",
+        "No": "46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.611689, -33.064594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 18",
+        "Uv": "18.000000",
+        "Sector": "4",
+        "CERRO_SECT": "La Cruz",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "CALLE AMERICA Nº 7",
+        "Obs_": "calle el vergel con calle tercera",
+        "FOTO": "105.JPG",
+        "IDEM": "47",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/105.JPG",
+        "No": "47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.614885, -33.058405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 19",
+        "Uv": "19.000000",
+        "Sector": "4",
+        "CERRO_SECT": "La Cruz",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "VARELA Nº 32",
+        "Obs_": "SIN SEDE.SE DECLARA VIGENTE PERO SE DECONOCE SI ES ACTIVA",
+        "FOTO": "106.JPG",
+        "IDEM": "48",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/106.JPG",
+        "No": "48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.612496, -33.053366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 58",
+        "Uv": "58.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Merced",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "OLAVARRIETA Nº 100",
+        "Obs_": "calle la virgen",
+        "FOTO": "107.JPG",
+        "IDEM": "49",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/107.JPG",
+        "No": "49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.604631, -33.053158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 60",
+        "Uv": "60.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Merced",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "PADRE FEBRE  Nº 552",
+        "Obs_": "?",
+        "FOTO": "108.JPG",
+        "IDEM": "50",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/108.JPG",
+        "No": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.603741, -33.057438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 61",
+        "Uv": "61.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Merced",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "FRANCISCO NOGETT Nº 38",
+        "Obs_": "SIN SEDE.SE DECLARA VIGENTE PERO SE DECONOCE SI ES ACTIVA",
+        "FOTO": "109.JPG",
+        "IDEM": "51",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/109.JPG",
+        "No": "51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.603583, -33.058471]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 62",
+        "Uv": "62.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Las Cañas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "CAMINO UNO CASA 30",
+        "Obs_": "camino uno con callle dos",
+        "FOTO": "110.JPG",
+        "IDEM": "52",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/110.JPG",
+        "No": "52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.608286, -33.061950]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 63",
+        "Uv": "63.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Las Cañas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "LOS CASTAÑOS 348",
+        "Obs_": "SE DECLARA VIGENTE PERO SE DECONOCE SI ES ACTIVA",
+        "FOTO": "111.JPG",
+        "IDEM": "53",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/111.JPG",
+        "No": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.608024, -33.058939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 156",
+        "Uv": "156.000000",
+        "Sector": "4",
+        "CERRO_SECT": "La Cruz",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "EL VERGEL .1115",
+        "Obs_": "calle el vergel con calle berlin",
+        "FOTO": "114.JPG",
+        "IDEM": "54",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/114.JPG",
+        "No": "54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.611295, -33.066469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 165",
+        "Uv": "165.000000",
+        "Sector": "4",
+        "CERRO_SECT": "Merced",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "PATRICIA VELASQUEZ",
+        "Direccio_n": "PADRE FEBRE  309",
+        "Obs_": "santa elena con padre febre",
+        "FOTO": "115.JPG",
+        "IDEM": "55",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/115.JPG",
+        "No": "55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.602393, -33.055899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 31 Población Valencia Sur",
+        "Uv": "31.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Toro",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Quebrada Verde 281",
+        "Obs_": "?",
+        "FOTO": "159.JPG",
+        "IDEM": "56",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/159.JPG",
+        "No": "56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.640678, -33.037791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 30 Población Valencia",
+        "Uv": "30.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Toro",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "C. QUEBRADA VERDE 316 PLAYA ANCHA",
+        "Obs_": "SEDE: Camino Cintura s\/n  Cerro Toro",
+        "FOTO": "158.JPG",
+        "IDEM": "57",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/158.JPG",
+        "No": "57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.638677, -33.039529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 33 Cerro Mesilla",
+        "Uv": "33.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Mesilla",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "12 de Julio 197 Playa Ancha",
+        "Obs_": "?",
+        "FOTO": "161.JPG",
+        "IDEM": "58",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/161.JPG",
+        "No": "58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.636318, -33.034576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 36 Cerro Arrayán",
+        "Uv": "36.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Arrayán",
+        "VIGENCIA": "SI",
+        "ACTIVA": "NO",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "?",
+        "Obs_": "calle cb bustos 50  (presidenta)",
+        "FOTO": "165.JPG",
+        "IDEM": "59",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/165.JPG",
+        "No": "59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.633493, -33.033915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 37 Cerro Perdices",
+        "Uv": "37.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Perdices",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "PASTENES 235 CERRO PERDICES",
+        "Obs_": "Camino Cintura sn",
+        "FOTO": "166.JPG",
+        "IDEM": "60",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/166.JPG",
+        "No": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.636858, -33.036590]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 82 Cerro Cerro Loceras",
+        "Uv": "82.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Loceras",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Grumete Vargas Nº 25, Cerro Loceras",
+        "Obs_": "c\/sede",
+        "FOTO": "168.JPG",
+        "IDEM": "61",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/168.JPG",
+        "No": "61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.636044, -33.041238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 108 Chaparro y Cordillera Alto",
+        "Uv": "108.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Chaparro 108",
+        "Obs_": "?",
+        "FOTO": "175.JPG",
+        "IDEM": "62",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/175.JPG",
+        "No": "62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.640512, -33.047665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 168",
+        "Uv": "168.000000",
+        "Sector": "6",
+        "CERRO_SECT": "Cordillera",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "RODRIGO QUIJADA",
+        "Direccio_n": "Los Chanos 98 Cordillera",
+        "Obs_": "SIN SEDE",
+        "FOTO": "178.JPG",
+        "IDEM": "63",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/178.JPG",
+        "No": "63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.639013, -33.041267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 20",
+        "Uv": "20.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Monjas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Calle 13 Nº 208 Cerro Monjas",
+        "Obs_": "SIN SEDE",
+        "FOTO": "122.JPG",
+        "IDEM": "64",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/122.JPG",
+        "No": "64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.616891, -33.053690]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 21 La Obra",
+        "Uv": "21.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Mariposas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "SEDE: Gonzalo Bulnes s\/n Cerro Mariposas",
+        "Obs_": "",
+        "FOTO": "123.JPG",
+        "IDEM": "65",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/123.JPG",
+        "No": "65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.619097, -33.056949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 22 Cerro Mariposa",
+        "Uv": "22.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Mariposas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Mayorga 80",
+        "Obs_": "SIN SEDE",
+        "FOTO": "124.JPG",
+        "IDEM": "66",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/124.JPG",
+        "No": "66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.619124, -33.053548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 23 Cerro Bellavista",
+        "Uv": "23.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Bellavista",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Hector Calvo 323 Cerro Bellavista",
+        "Obs_": "",
+        "FOTO": "125.JPG",
+        "IDEM": "67",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/125.JPG",
+        "No": "67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.622562, -33.048192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 24 Almirante Basilio Rojas",
+        "Uv": "24.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Yungay",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Basilio Rojas 292",
+        "Obs_": "SEDE: Basilio Rojas s\/n",
+        "FOTO": "126.JPG",
+        "IDEM": "68",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/126.JPG",
+        "No": "68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.626626, -33.055756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 25 Santa Rita",
+        "Uv": "25.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Yungay",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Santa Rita 94 Cerro Yungay",
+        "Obs_": "",
+        "FOTO": "127.JPG",
+        "IDEM": "69",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/127.JPG",
+        "No": "69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.628052, -33.056387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 27 Población 18 de Septiembre",
+        "Uv": "27.000000",
+        "Sector": "5",
+        "CERRO_SECT": "San Juan de Dios",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Aquiles Ramirez con Progreso C°San juan de Dios",
+        "Obs_": "",
+        "FOTO": "129.JPG",
+        "IDEM": "70",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/129.JPG",
+        "No": "70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.629278, -33.055066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 28 Cerro Concepción",
+        "Uv": "28.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Concepción",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Abtao 441",
+        "Obs_": "SIN SEDE",
+        "FOTO": "130.JPG",
+        "IDEM": "71",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/130.JPG",
+        "No": "71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.626371, -33.042795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 65 Monjas Bajo",
+        "Uv": "65.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Monjas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Balmaceda Nº 32",
+        "Obs_": "SIN SEDE",
+        "FOTO": "131.JPG",
+        "IDEM": "72",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/131.JPG",
+        "No": "72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.614983, -33.051092]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 66 Almirante Latorre",
+        "Uv": "66.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Mariposas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Pedro de Oña Nº 267 C°Mariposa",
+        "Obs_": "SEDE:Pedro de oña s\/n Cerro Mariposa",
+        "FOTO": "132.JPG",
+        "IDEM": "73",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/132.JPG",
+        "No": "73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.618914, -33.062033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 67 Cerro Florida",
+        "Uv": "67.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Florida",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Benjamin V. Mackena c\/ Baquedano",
+        "Obs_": "",
+        "FOTO": "134.JPG",
+        "IDEM": "74",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/134.JPG",
+        "No": "74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.620602, -33.054322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 68  Sector 5",
+        "Uv": "68.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Yungay",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "General Mackenna Nº 289  D\/614",
+        "Obs_": "SIN SEDE",
+        "FOTO": "135.JPG",
+        "IDEM": "75",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/135.JPG",
+        "No": "75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.624347, -33.048434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 69 Población Cochrane",
+        "Uv": "69.000000",
+        "Sector": "5",
+        "CERRO_SECT": "San Juan de Dios",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Av. San Juan de Dios Nº 656",
+        "Obs_": "SIN SEDE",
+        "FOTO": "136.JPG",
+        "IDEM": "76",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/136.JPG",
+        "No": "76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.627182, -33.049294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 70 La Loma-Cárcel",
+        "Uv": "70.000000",
+        "Sector": "5",
+        "CERRO_SECT": "La Loma",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Principal Nº 85 Cº la Loma",
+        "Obs_": "SEDE: Camila S\/n Cerro La Loma",
+        "FOTO": "137.JPG",
+        "IDEM": "77",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/137.JPG",
+        "No": "77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.627911, -33.048343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 71 Miguel Ángel",
+        "Uv": "71.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Yungay",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Diego de Almagro 525",
+        "Obs_": "",
+        "FOTO": "138.JPG",
+        "IDEM": "78",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/138.JPG",
+        "No": "78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.626980, -33.057340]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 72 Cerro Jiménez",
+        "Uv": "72.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Jiménez",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Lo venegas Nº 1067 Cº Jimenez",
+        "Obs_": "SEDE:Lo venegas S\/N Cerro Jimenez",
+        "FOTO": "139.JPG",
+        "IDEM": "79",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/139.JPG",
+        "No": "79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.631831, -33.053592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 73 Cerro Alegre Parte Baja",
+        "Uv": "73.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Alegre",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Santa Isabel 690",
+        "Obs_": "SIN SEDE",
+        "FOTO": "140.JPG",
+        "IDEM": "80",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/140.JPG",
+        "No": "80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.629481, -33.042391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 74 Cerro Miraflores",
+        "Uv": "74.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Miraflores",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Miraflores 303",
+        "Obs_": "SEDE: Avda Elias S\/n Cerro Miraflores",
+        "FOTO": "141.JPG",
+        "IDEM": "81",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/141.JPG",
+        "No": "81"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.628652, -33.045473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 75 Alejandro Tinsley",
+        "Uv": "75.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Alegre",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Munich 109, Cerro Alegre",
+        "Obs_": "SIN SEDE",
+        "FOTO": "142.JPG",
+        "IDEM": "82",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/142.JPG",
+        "No": "82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.632666, -33.045560]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 76 Cerro La Cárcel Parte Baja",
+        "Uv": "76.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Cárcel",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "SEDE: Iberia S\/n Cerro Carcel",
+        "Obs_": "",
+        "FOTO": "143.JPG",
+        "IDEM": "83",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/143.JPG",
+        "No": "83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.634879, -33.052102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 77 Cerro Alegre Parte Alta",
+        "Uv": "77.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Alegre",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Williams Lyon 36 Cerro Alegre",
+        "Obs_": "",
+        "FOTO": "144.JPG",
+        "IDEM": "84",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/144.JPG",
+        "No": "84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.637627, -33.052005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 78 Lyón Edwards",
+        "Uv": "78.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Alegre",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Calle 2 109 Cerro Alegre",
+        "Obs_": "SIN SEDE",
+        "FOTO": "145.JPG",
+        "IDEM": "85",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/145.JPG",
+        "No": "85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.636917, -33.049162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 125",
+        "Uv": "125.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Florida",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Manuel Rojas Nº 35",
+        "Obs_": "SEDE: Manuel rojas S\/n Cerro Florida",
+        "FOTO": "146.JPG",
+        "IDEM": "86",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/146.JPG",
+        "No": "86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.624039, -33.056540]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 126 Población Chile Nuevo",
+        "Uv": "126.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Mariposas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Trinquete Nº 469, Cerro Mariposa",
+        "Obs_": "SEDE: Trinquete Cerro Mariposas",
+        "FOTO": "148.JPG",
+        "IDEM": "87",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/148.JPG",
+        "No": "87"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.621358, -33.057095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 142 Villa Esmeralda",
+        "Uv": "142.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Mariposas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "SEDE: Bahia S\/N Cerro Mariposas",
+        "Obs_": "",
+        "FOTO": "149.JPG",
+        "IDEM": "88",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/149.JPG",
+        "No": "88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.620705, -33.059606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 142-A Baldomero Castro",
+        "Uv": "142.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Mariposas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Calle Cangreja Nº1",
+        "Obs_": "SIN SEDE",
+        "FOTO": "150.JPG",
+        "IDEM": "89",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/150.JPG",
+        "No": "89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.619900, -33.058585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 142-B  La Ruda",
+        "Uv": "142.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Mariposas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Ruda Poniente Manzana H30",
+        "Obs_": "SEDE: Manzana H con pasaje elPanda C° Mariposas",
+        "FOTO": "151.JPG",
+        "IDEM": "90",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/151.JPG",
+        "No": "90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.622054, -33.061054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 166 Rita Otaegui Bajo",
+        "Uv": "166.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Yungay",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Rita Otaegui Nº 53",
+        "Obs_": "SIN SEDE",
+        "FOTO": "152.JPG",
+        "IDEM": "91",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/152.JPG",
+        "No": "91"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.627000, -33.055248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 195 Población Lautaro",
+        "Uv": "195.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Alegre",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Los toquis 30 Cerro Alegre",
+        "Obs_": "",
+        "FOTO": "153.JPG",
+        "IDEM": "92",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/153.JPG",
+        "No": "92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.637169, -33.054151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 70-A",
+        "Uv": "70.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Panteón",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Patio Volantin Sbda. Ecuador",
+        "Obs_": "Ecuador 484 Valparaìso",
+        "FOTO": "156.JPG",
+        "IDEM": "93",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/156.JPG",
+        "No": "93"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.624886, -33.047056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  Roberto Ampuero Brunet",
+        "Uv": "27.000000",
+        "Sector": "5",
+        "CERRO_SECT": "San Juan de Dios",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Bartolome Pinto 98",
+        "Obs_": "espera de comodato",
+        "FOTO": "155.JPG",
+        "IDEM": "94",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/155.JPG",
+        "No": "94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.627630, -33.052943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 88 Maria Eislers",
+        "Uv": "88.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "",
+        "Obs_": "PRIMERO DE MAYO CON OBISPO EDO GIMPERT",
+        "FOTO": "13.JPG",
+        "IDEM": "95",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/13.JPG",
+        "No": "95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.583353, -33.042645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  91 Santa Bárbara- Hucke",
+        "Uv": "91.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "",
+        "Obs_": "",
+        "FOTO": "16.JPG",
+        "IDEM": "96",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/16.JPG",
+        "No": "96"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.580558, -33.046416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 66-A Rene Lagos Y Rapa Nui",
+        "Uv": "66.000000",
+        "Sector": "5",
+        "CERRO_SECT": "Mariposas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "René Lagos (Juan Diaz de Solis) altura N°13",
+        "Obs_": "",
+        "FOTO": "133.JPG",
+        "IDEM": "97",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/133.JPG",
+        "No": "97"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.617291, -33.058365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  Torres de Mesana",
+        "Uv": "0.000000",
+        "Sector": "5",
+        "CERRO_SECT": "La Cruz",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "KATHERINE RUBIO",
+        "Direccio_n": "Mesana 107",
+        "Obs_": "SEDE: Mesana S\/N Cerro Mariposas",
+        "FOTO": "154.JPG",
+        "IDEM": "98",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/154.JPG",
+        "No": "98"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.625740, -33.063781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 10 SAN JORGE",
+        "Uv": "10.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Rocuant",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CALLE SAN JORGE 377 ROCUANT",
+        "Obs_": "",
+        "FOTO": "63.JPG",
+        "IDEM": "99",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/63.JPG",
+        "No": "99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.592180, -33.065716]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 11 PABLO NERUDA",
+        "Uv": "11.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Rocuant",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "SAN PATRICIO 271 C° ROCUANT ALTO",
+        "Obs_": "",
+        "FOTO": "64.JPG",
+        "IDEM": "100",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/64.JPG",
+        "No": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.593644, -33.069356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 12 ROCUANT ALTO",
+        "Uv": "12.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Rocuant",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CALLE JUAN ANTONIO RIOS N. 2 ROCUANT",
+        "Obs_": "",
+        "FOTO": "65.JPG",
+        "IDEM": "101",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/65.JPG",
+        "No": "101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.592451, -33.068178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 94 TENIENTE MERINO",
+        "Uv": "94.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Rocuant",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "JUSTINIANO Nº 13 RAMADITAS",
+        "Obs_": "SEDE: TENIENTE MERINO",
+        "FOTO": "68.JPG",
+        "IDEM": "102",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/68.JPG",
+        "No": "102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.598398, -33.053752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 94-A PIEDRA AZUL",
+        "Uv": "94.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Rocuant",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "PIEDRA AZUL Nº 13 B. O´HIGGINS",
+        "Obs_": "",
+        "FOTO": "69.JPG",
+        "IDEM": "103",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/69.JPG",
+        "No": "103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.597521, -33.053417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 95 RAMADITAS",
+        "Uv": "95.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Ramaditas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CALLE RAMADITAS 337",
+        "Obs_": "",
+        "FOTO": "70.JPG",
+        "IDEM": "104",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/70.JPG",
+        "No": "104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.599917, -33.055024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 97 SANTA ELENA LOS POZOS",
+        "Uv": "97.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Ramaditas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CALLE MARINERO UGARTE 1001 RAMADITAS",
+        "Obs_": "",
+        "FOTO": "72.JPG",
+        "IDEM": "105",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/72.JPG",
+        "No": "105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.597196, -33.058796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 98 RAMADITAS CUESTA COLORADA",
+        "Uv": "98.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Ramaditas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "RAMADITAS 1590 CERRO RAMADITAS",
+        "Obs_": "",
+        "FOTO": "73.JPG",
+        "IDEM": "106",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/73.JPG",
+        "No": "106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.597684, -33.063615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 98-A RAMADITAS SOR TERESA",
+        "Uv": "98.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Ramaditas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CUESTA COLORADA Nº 20120 POB. SOR TERESA",
+        "Obs_": "SEDE: CUESTA COLORADA SOR TERESA RAMADITAS",
+        "FOTO": "74.JPG",
+        "IDEM": "107",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/74.JPG",
+        "No": "107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.596315, -33.068945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 100 CENTRAL OHIGGINS",
+        "Uv": "100.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "MAGIVER 230 BARRIO OHIGGINS",
+        "Obs_": "",
+        "FOTO": "77.JPG",
+        "IDEM": "108",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/77.JPG",
+        "No": "108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.595970, -33.057175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 101 GABRIELA MISTRAL",
+        "Uv": "101.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CALLE JOSE FIGUEROA 98 C. SAN ROQUE",
+        "Obs_": "",
+        "FOTO": "78.JPG",
+        "IDEM": "109",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/78.JPG",
+        "No": "109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.587307, -33.065821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 102-A PEQUEÑA INDUSTRIA",
+        "Uv": "102.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "NO",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "PASAJE 2 Nº 22 SAN ROQUE",
+        "Obs_": "",
+        "FOTO": "80.JPG",
+        "IDEM": "110",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/80.JPG",
+        "No": "110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.584150, -33.071859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 118 DELICIAS",
+        "Uv": "118.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Las Delicias",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "AV. IBSENN 53 CERRO DELICIAS",
+        "Obs_": "SEDE: ENRIQUE IBSEN  Cº DELICIAS",
+        "FOTO": "82.JPG",
+        "IDEM": "111",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/82.JPG",
+        "No": "111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.592260, -33.051682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 119-A SAN ROQUE",
+        "Uv": "119.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "WASHINGTON 2531 ROCUANT",
+        "Obs_": "",
+        "FOTO": "84.JPG",
+        "IDEM": "112",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/84.JPG",
+        "No": "112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.591343, -33.064123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 122 JORGE WASHINGTON",
+        "Uv": "122.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "AV. WASHINGTON 2229 BARRIO O. HIGGINS",
+        "Obs_": "",
+        "FOTO": "88.JPG",
+        "IDEM": "113",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/88.JPG",
+        "No": "113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.592984, -33.062958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 123 CABO VERDE",
+        "Uv": "123.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Las Delicias",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "PJE LAS ORQUIDEAS 13- A POB. FRANKLIN",
+        "Obs_": "",
+        "FOTO": "91.JPG",
+        "IDEM": "114",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/91.JPG",
+        "No": "114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.587323, -33.054873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 123-A VILLA PORTUARIA",
+        "Uv": "123.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Las Delicias",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "LAS ORQUIDEAS 7 POB. FRANKLIN",
+        "Obs_": "SEDE: PJE. RAULI S\/N SANTOS OSSA",
+        "FOTO": "92.JPG",
+        "IDEM": "115",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/92.JPG",
+        "No": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.586657, -33.054844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 155 LA ISLA",
+        "Uv": "155.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "PASAJE FALUCHO CASA Nº 34",
+        "Obs_": "SEDE: PJE. CARRACA S\/N SAN ROQUE ALTO",
+        "FOTO": "93.JPG",
+        "IDEM": "116",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/93.JPG",
+        "No": "116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.583747, -33.080566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 164 MANUEL RODRIGUEZ",
+        "Uv": "164.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "TALAGANTE 40 POB. MANUEL RODRIGUEZ",
+        "Obs_": "",
+        "FOTO": "95.JPG",
+        "IDEM": "117",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/95.JPG",
+        "No": "117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.582777, -33.072046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 185 BLANCO ENCALADA",
+        "Uv": "185.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Las Delicias",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CALLE BAUCHEFF Nº 38 B. O´HIGGINS",
+        "Obs_": "SEDE: TRICTO 101 BARRIO O.HIGGINS",
+        "FOTO": "96.JPG",
+        "IDEM": "118",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/96.JPG",
+        "No": "118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.595345, -33.054646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 206 ESFUERZO Y PROGRESO",
+        "Uv": "206.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Ramaditas",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "Ramaditas #515",
+        "Obs_": "",
+        "FOTO": "97.JPG",
+        "IDEM": "119",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/97.JPG",
+        "No": "119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.599803, -33.055651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. ANDORRA SUR",
+        "Uv": "155.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "Valle del Sur Nº99",
+        "Obs_": "SEDE: ANDORRA SUR S\/N",
+        "FOTO": "98.JPG",
+        "IDEM": "120",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/98.JPG",
+        "No": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.583005, -33.078090]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. VALLES DE ANDORRA",
+        "Uv": "155.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "Pasaje Valle Aconcagua Nº 8  Valles de Andorra",
+        "Obs_": "SEDE: ANDORRA SUR S\/N",
+        "FOTO": "99.JPG",
+        "IDEM": "121",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/99.JPG",
+        "No": "121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.583752, -33.077239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 12-A LAS TORRES",
+        "Uv": "12.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Rocuant",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "?",
+        "Obs_": "SEDE: POBLACION LAS TORRES ROCUANT ALTO",
+        "FOTO": "66.JPG",
+        "IDEM": "122",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/66.JPG",
+        "No": "122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.593798, -33.073383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 12-B LOS PAJARITOS",
+        "Uv": "12.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Rocuant",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "Camino Viejo Km 5 , Lote 43",
+        "Obs_": "SEDE: LOS PAJARITOS LOTE 16",
+        "FOTO": "67.JPG",
+        "IDEM": "123",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/67.JPG",
+        "No": "123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.589399, -33.068962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 102 BERNARDO OHIGGINS",
+        "Uv": "102.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CAMINO REAL Nº  25",
+        "Obs_": "",
+        "FOTO": "79.JPG",
+        "IDEM": "124",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/79.JPG",
+        "No": "124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.586135, -33.075139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 102-B HERNAN MERY",
+        "Uv": "102.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "PRINCIPAL Nº 47",
+        "Obs_": "",
+        "FOTO": "81.JPG",
+        "IDEM": "125",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/81.JPG",
+        "No": "125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.585669, -33.072249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 119 BELLA ESPERANZA",
+        "Uv": "119.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "POB. BELLA ESPERANZA LOTE 24-B",
+        "Obs_": "",
+        "FOTO": "83.JPG",
+        "IDEM": "126",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/83.JPG",
+        "No": "126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.591330, -33.062755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 119-B COOPERATIVA VALPARAISO BARRIO OHIGGINS",
+        "Uv": "119.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "LOS NOGALES Nº 26 SAN ROQUE",
+        "Obs_": "SEDE: COOPERATIVA OFICINA CALERA Nº 7",
+        "FOTO": "85.JPG",
+        "IDEM": "127",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/85.JPG",
+        "No": "127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.588920, -33.064813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 120 MC CLELLAND",
+        "Uv": "120.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "?",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CALLE CUESTA EL ROBLE 992 SAN ROQUE",
+        "Obs_": "PROCESO ELECCION",
+        "FOTO": "86.JPG",
+        "IDEM": "128",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/86.JPG",
+        "No": "128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.586826, -33.063044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 121 SAN ROQUE",
+        "Uv": "121.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "AV. B. O HIGGINS 1516 SAN ROQUE",
+        "Obs_": "SEDE:AV. BERNARDO O. HIGGINS",
+        "FOTO": "87.JPG",
+        "IDEM": "129",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/87.JPG",
+        "No": "129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.585347, -33.065027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 122-A VILLAREAL",
+        "Uv": "122.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "CALLE EL REY Nº 22 POBLACION VILLA REAL",
+        "Obs_": "",
+        "FOTO": "89.JPG",
+        "IDEM": "130",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/89.JPG",
+        "No": "130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.588414, -33.068335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 122-B LOS AROMOS",
+        "Uv": "122.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "PASAJE LA DUQUESA #101 POBLACIÓN VILLA REAL",
+        "Obs_": "SEDE: Camino Viejo 6 1\/2 Lote 43 Poblacion Los Aromos",
+        "FOTO": "90.JPG",
+        "IDEM": "131",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/90.JPG",
+        "No": "131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.587336, -33.073842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 163 VOLUNTAD Y ESFUERZO",
+        "Uv": "164.000000",
+        "Sector": "3",
+        "CERRO_SECT": "San Roque",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "MALLOCO  194 SAN ROQUE",
+        "Obs_": "",
+        "FOTO": "94.JPG",
+        "IDEM": "132",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/94.JPG",
+        "No": "132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.585487, -33.068595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 99-A COLO-COLO",
+        "Uv": "99.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Ramaditas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "SUR PERAL 99 CERRO RAMADITAS",
+        "Obs_": "",
+        "FOTO": "76.JPG",
+        "IDEM": "133",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/76.JPG",
+        "No": "133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.595411, -33.061067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 99 ESMERALDA",
+        "Uv": "99.000000",
+        "Sector": "3",
+        "CERRO_SECT": "Ramaditas",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "GUSTAVO CARRASCO",
+        "Direccio_n": "ESMERALDA 700 CERRO RAMADITA",
+        "Obs_": "",
+        "FOTO": "75.JPG",
+        "IDEM": "134",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/75.JPG",
+        "No": "134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.596004, -33.066095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. PORVENIR BAJO",
+        "Uv": "38.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "CALLE 5 ESQ. CALLE 2 PORVENIR BAJO PLAYA ANCHA",
+        "Obs_": "?",
+        "FOTO": "206.JPG",
+        "IDEM": "135",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/206.JPG",
+        "No": "135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.653200, -33.032573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. POBLACION VISTA AL MAR",
+        "Uv": "0.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "POB. VISTA L MARB\/5 DEPTO 24 Nº 334",
+        "Obs_": "POBLACION VISTA AL MAR PORVENIR BAJO PLAYA ANCHA",
+        "FOTO": "207.JPG",
+        "IDEM": "136",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/207.JPG",
+        "No": "136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.654944, -33.036231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. EMPART",
+        "Uv": "40.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "Avda Porvenir 1705 Block 3 Depto 53",
+        "Obs_": "?",
+        "FOTO": "208.JPG",
+        "IDEM": "137",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/208.JPG",
+        "No": "137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.647724, -33.039787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 41POBLACION MARINA MERCANTE",
+        "Uv": "41.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "Claudio Gay 552",
+        "Obs_": "CALLE PANAMA  131, DEPTO A1",
+        "FOTO": "209.JPG",
+        "IDEM": "138",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/209.JPG",
+        "No": "138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.645608, -33.040629]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. SAN MARCOS",
+        "Uv": "0.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "NO",
+        "ACTIVA": "NO",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "?",
+        "Obs_": "CALLE SAN MARCOS 18 Y MEDIO S\/N",
+        "FOTO": "210.JPG",
+        "IDEM": "139",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/210.JPG",
+        "No": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.646471, -33.033396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. RIO FRIO",
+        "Uv": "112.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "CALLE SANTA MARTA N° 316-A",
+        "Obs_": "CALLE LAUTARO 25, PLAYA ANCHA (PRESIDENTE)",
+        "FOTO": "211.JPG",
+        "IDEM": "140",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/211.JPG",
+        "No": "140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.642249, -33.029236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. ALCALDE BARRIOS Y A MALLET",
+        "Uv": "113.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "CALLE GALVARINO N° 107 P.ANCHA",
+        "Obs_": "CALLE ALCALDE BARRIOS 220, PLAYA ANCHA (PRESIDENTE)",
+        "FOTO": "212.JPG",
+        "IDEM": "141",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/212.JPG",
+        "No": "141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.641158, -33.026924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. LAS HABAS Y EL MEMBRILLO",
+        "Uv": "114.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "PZA WADDINGTON 136 PLAYA ANCHA",
+        "Obs_": "?",
+        "FOTO": "213.JPG",
+        "IDEM": "142",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/213.JPG",
+        "No": "142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.633483, -33.023737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  21 DE MAYO",
+        "Uv": "0.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Artilleria",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "CAP.MUÑOZ CERRO ARRTILLERIA",
+        "Obs_": "SEDE EN CONSTRUCCION (TERMINADA)",
+        "FOTO": "214.JPG",
+        "IDEM": "143",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/214.JPG",
+        "No": "143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.630751, -33.032861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  ARTURO PRAT",
+        "Uv": "116.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "AVENIDA PLAYA ANCHA 201 VALPARAISO",
+        "Obs_": "?",
+        "FOTO": "215.JPG",
+        "IDEM": "144",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/215.JPG",
+        "No": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.636096, -33.030413]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  EMPART LAS LILAS  - PORVENIR",
+        "Uv": "170.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "LAS LILÑAS Nº 1, POBLACION ENRIQUES TORNERO",
+        "Obs_": "SIN SEDE. CALLE ENRIQUE TORNERO 1, PORVENIR BAJO (PRESIDENTE)",
+        "FOTO": "216.JPG",
+        "IDEM": "145",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/216.JPG",
+        "No": "145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.651697, -33.036805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  POBLACION RAMON CORDERO",
+        "Uv": "173.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "?",
+        "Obs_": "CALLE RAMON CORDERO 11, DEPTO 21, SEGUNDA ETAPA (PRESIDENTE)",
+        "FOTO": "217.JPG",
+        "IDEM": "146",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/217.JPG",
+        "No": "146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.649889, -33.032077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.   LA EXPLANADA",
+        "Uv": "0.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "LA EXPLANADA BLOCK 5 DEPTO 34 PLAYA ANCHA",
+        "Obs_": "SIN SEDE",
+        "FOTO": "218.JPG",
+        "IDEM": "147",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/218.JPG",
+        "No": "147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.651809, -33.028489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  197",
+        "Uv": "197.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "POBLACION VIENTO SUR PLAYA ANCHA",
+        "Obs_": "EXPLANADA 1101 BL 7 DP 1 (SECRETARIA)",
+        "FOTO": "219.JPG",
+        "IDEM": "148",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/219.JPG",
+        "No": "148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.651960, -33.029381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. BICENTENARIO",
+        "Uv": "0.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "LAUTARO 25 PLAYA ANCHA (PRESIDENTE)",
+        "Obs_": "NO ES J.V. ES UNA AGRUPACION DE JUNTAS DE VECINOS",
+        "FOTO": "220.JPG",
+        "IDEM": "149",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/220.JPG",
+        "No": "149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.642249, -33.029236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  39 PORVENIR ALTO",
+        "Uv": "39.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "SOFANOR PARRA  Nº5 PORVENIR ALTO (PRESIDENTA)",
+        "Obs_": "?",
+        "FOTO": "221.JPG",
+        "IDEM": "150",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/221.JPG",
+        "No": "150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.648333, -33.036816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  110  MIRAMAR BAJO",
+        "Uv": "110.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "AV.PACIFICO  1153 ,B MIRAMAR BAJO",
+        "Obs_": "AV .PACIFICO",
+        "FOTO": "222.JPG",
+        "IDEM": "151",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/222.JPG",
+        "No": "151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.650547, -33.030377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  115 PLAYA ANCHA CENTRAL",
+        "Uv": "115.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "PZA WADDINGTON 136 PLAYA ANCHA",
+        "Obs_": "CALLE QBDA VERDE CON CALLE REPUBLICA",
+        "FOTO": "223.JPG",
+        "IDEM": "152",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/223.JPG",
+        "No": "152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.637530, -33.030633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. UNION Y EL PROGRESO",
+        "Uv": "0.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "SIN SEDE",
+        "Obs_": "RIO LLICO 110 (PRESIDENTA)",
+        "FOTO": "230.JPG",
+        "IDEM": "153",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/230.JPG",
+        "No": "153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.650227, -33.034405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  111 POBLACION MIRAMAR Y PACIFICO NORTE",
+        "Uv": "111.000000",
+        "Sector": "7-A",
+        "CERRO_SECT": "Playa Ancha",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "ROSITA FLORES",
+        "Direccio_n": "AV.JUAN XXIII 595 POB.MIRAMAR P. ANCHA",
+        "Obs_": "?",
+        "FOTO": "231.JPG",
+        "IDEM": "154",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/231.JPG",
+        "No": "154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.645777, -33.032260]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 5 COMUNIDADES UNIDAS DE RODELILLO",
+        "Uv": "5.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "DIEGO MONTECINOS CON RODELILLO",
+        "Obs_": "?",
+        "FOTO": "34.JPG",
+        "IDEM": "155",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/34.JPG",
+        "No": "155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.589221, -33.047896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 4 CERRO BARÓN",
+        "Uv": "4.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Barón",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "ERCILLA 539 Cº BARON",
+        "Obs_": "SIN SEDE SOCIAL",
+        "FOTO": "33.JPG",
+        "IDEM": "156",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/33.JPG",
+        "No": "156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.598434, -33.042122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 8 RECREO Y RODRIGUEZ",
+        "Uv": "8.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Recreo y  Rodríguez",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "URRUTIA 1101 CERRO LARRAIN",
+        "Obs_": "?",
+        "FOTO": "37.JPG",
+        "IDEM": "157",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/37.JPG",
+        "No": "157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.596390, -33.047619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 7 CERRO POLANCO",
+        "Uv": "7.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Polanco",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "PASAJE TAINA 401 CERRO POLANCO",
+        "Obs_": "?",
+        "FOTO": "36.JPG",
+        "IDEM": "158",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/36.JPG",
+        "No": "158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.597951, -33.049260]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 9 NUEVOS HORIZONTES",
+        "Uv": "9.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Larraín",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "SANTIAGO RAMIREZ S\/N  C° LARRAIN",
+        "Obs_": "?",
+        "FOTO": "38.JPG",
+        "IDEM": "159",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/38.JPG",
+        "No": "159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.599438, -33.046128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 52 PARAISOS Y ANEXOS",
+        "Uv": "52.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Barón",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "PITAGORAS 292 CERRO BARON",
+        "Obs_": "EDIFICIO EN CONSTRUCCION (INMOBILIARIA)",
+        "FOTO": "39.JPG",
+        "IDEM": "160",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/39.JPG",
+        "No": "160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.595361, -33.044801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 53  LOS LECHEROS",
+        "Uv": "53.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Lecheros",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "VALPARAISO N° 107 C° LECHEROS",
+        "Obs_": "?",
+        "FOTO": "41.JPG",
+        "IDEM": "161",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/41.JPG",
+        "No": "161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.602326, -33.044551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 54 ARRATIA",
+        "Uv": "54.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Barón",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "ARRATIA 249 CERRO BARON",
+        "Obs_": "?",
+        "FOTO": "40.JPG",
+        "IDEM": "162",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/40.JPG",
+        "No": "162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.600529, -33.044392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 55  ERCILLA Y ANEXOS",
+        "Uv": "55.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Barón",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "ELOY CAVIERES 699 CERRO BARON",
+        "Obs_": "?",
+        "FOTO": "42.JPG",
+        "IDEM": "163",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/42.JPG",
+        "No": "163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.595734, -33.041605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 64 RAMON CARNICER",
+        "Uv": "64.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "CALLE DEL CABO 2002 CERRO RODELILLO",
+        "Obs_": "DEL CABO 202",
+        "FOTO": "45.JPG",
+        "IDEM": "164",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/45.JPG",
+        "No": "164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.578176, -33.058096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 151 NUEVA VICTORIA SUR",
+        "Uv": "151.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "PJE DEL COLEGIO 41 VILLA PRIMAVERA RODELILLO",
+        "Obs_": "?",
+        "FOTO": "50.JPG",
+        "IDEM": "165",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/50.JPG",
+        "No": "165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.581175, -33.053604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  150 IGUALDAD Y FRATERNIDAD",
+        "Uv": "150.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "POB.EL SAUZAL PJE GUAYACAN 51 RODELILLO",
+        "Obs_": "GUAYACAN S\/N LOTE 51",
+        "FOTO": "49.JPG",
+        "IDEM": "166",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/49.JPG",
+        "No": "166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.576162, -33.053745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 154 POBLACION ALMIRANTE SIMPSON",
+        "Uv": "154.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Polanco",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "FUENTECILLA 752 CERRO POLANCO",
+        "Obs_": "?",
+        "FOTO": "51.JPG",
+        "IDEM": "167",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/51.JPG",
+        "No": "167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.594996, -33.048195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 159 AURORA DE RODELILLO",
+        "Uv": "159.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "11 SEPTIEMBRE 221 AURORA DE RODELILLO",
+        "Obs_": "?",
+        "FOTO": "52.JPG",
+        "IDEM": "168",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/52.JPG",
+        "No": "168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.569356, -33.063111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 160 JARDINES DE RODELILLO",
+        "Uv": "160.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "CALLE CORDILLERA DE LOSANDES 694  RODELILLO",
+        "Obs_": "CONFIRMAR UBICACIÓN",
+        "FOTO": "54.JPG",
+        "IDEM": "169",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/54.JPG",
+        "No": "169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.572380, -33.058444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 161 LOMAS DE RODELILLO",
+        "Uv": "161.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "AV. RODELILLO 5955",
+        "Obs_": "?",
+        "FOTO": "55.JPG",
+        "IDEM": "170",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/55.JPG",
+        "No": "170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.566300, -33.065496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 179 POBLACION MUNICIPAL",
+        "Uv": "179.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "FARO PUNTA DE ANGELES CASA 61",
+        "Obs_": "?",
+        "FOTO": "58.JPG",
+        "IDEM": "171",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/58.JPG",
+        "No": "171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.573564, -33.063992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 198 SANTA TERESA DE RODELILLO",
+        "Uv": "198.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "AV.RODELILLO 5700 RODELILLO",
+        "Obs_": "?",
+        "FOTO": "60.JPG",
+        "IDEM": "172",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/60.JPG",
+        "No": "172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.569382, -33.065570]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  LA PLANCHADA",
+        "Uv": "0.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "AV. LA PLANCHADA 4317",
+        "Obs_": "?",
+        "FOTO": "62.JPG",
+        "IDEM": "173",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/62.JPG",
+        "No": "173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.579302, -33.059472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. VILLA RAPA NUI",
+        "Uv": "205.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "RAPU RAPU N°210 VILLA RAPA NUI STOS OSSA",
+        "Obs_": "?",
+        "FOTO": "61.JPG",
+        "IDEM": "174",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/61.JPG",
+        "No": "174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.578884, -33.063479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 6 CERRO MOLINO",
+        "Uv": "6.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Molino",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "MAZZEY 50 CERRO MOLINO",
+        "Obs_": "fanor velasco 660 co molino",
+        "FOTO": "35.JPG",
+        "IDEM": "175",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/35.JPG",
+        "No": "175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.596751, -33.051349]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. JUAN LLONA Y EL PILAR",
+        "Uv": "18.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Barón",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "CALLE CAMPOAMOR 113 CERRO BARON",
+        "Obs_": "co polanco,",
+        "FOTO": "43.JPG",
+        "IDEM": "176",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/43.JPG",
+        "No": "176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.592257, -33.047983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 140 SANTA ROSA DE RODELILLO",
+        "Uv": "140.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "PASAJE STA MONICA 74 CERRO BARON",
+        "Obs_": "BARON O RODELILLO",
+        "FOTO": "46.JPG",
+        "IDEM": "177",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/46.JPG",
+        "No": "177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.575446, -33.059442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 141 LA PLANCHADA",
+        "Uv": "141.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "LA PLANCHADA BLOCK 2 DEPTO 32",
+        "Obs_": "SEDE: LA PLANCHADA S\/N VALPARAISO",
+        "FOTO": "47.JPG",
+        "IDEM": "178",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/47.JPG",
+        "No": "178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.583939, -33.057246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 141-B MAGISTERIO - ANGAROA",
+        "Uv": "180.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "MAGISTERIO 37 VILLA MAGISTERIO RODELILLO",
+        "Obs_": "?",
+        "FOTO": "48.JPG",
+        "IDEM": "179",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/48.JPG",
+        "No": "179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.574540, -33.061121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 159-A  EL BOSQUE",
+        "Uv": "0.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "PJE 3 ESQ. CALLE 1 POB. BASICA RODELILLO",
+        "Obs_": "?",
+        "FOTO": "53.JPG",
+        "IDEM": "180",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/53.JPG",
+        "No": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.570259, -33.059891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 161 TRIWE ALTOS DE RODELILLO",
+        "Uv": "161.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "TRIWE ALTOS DE RODELILLO B\/245 DEPTO 22",
+        "Obs_": "SEDE: CALLE TRIWE, ALTOS DE RODELILLO",
+        "FOTO": "57.JPG",
+        "IDEM": "181",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/57.JPG",
+        "No": "181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.565370, -33.064597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 181 LUIS BAHAMONDEZ ALVEAR",
+        "Uv": "181.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "NO",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "LUIS BAHAMONDEZ N° 48",
+        "Obs_": "?",
+        "FOTO": "59.JPG",
+        "IDEM": "182",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/59.JPG",
+        "No": "182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.571931, -33.064498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 5",
+        "Uv": "5.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "CALLE PRINCIPAL JOSE SANTOS OSSA",
+        "Obs_": "?",
+        "FOTO": "225.JPG",
+        "IDEM": "183",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/225.JPG",
+        "No": "183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.587668, -33.050315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 182 TIERRA ROJAS",
+        "Uv": "182.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "TIERRAS ROJAS CALLE PRINCIPAL",
+        "Obs_": "?",
+        "FOTO": "226.JPG",
+        "IDEM": "184",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/226.JPG",
+        "No": "184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.580507, -33.056758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. SAN COLUMBANO",
+        "Uv": "0.000000",
+        "Sector": "2",
+        "CERRO_SECT": "Rodelillo",
+        "VIGENCIA": "?",
+        "ACTIVA": "SI",
+        "Coordinado": "JESSICA MONTENEGRO",
+        "Direccio_n": "POB. SAN COLUMBANO Nª599",
+        "Obs_": "?",
+        "FOTO": "227.JPG",
+        "IDEM": "185",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/227.JPG",
+        "No": "185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.563298, -33.062496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "1",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 1  Rosso",
+        "Uv": "1.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Esperanza",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "REBOLLEDO CON LOS SAUCES (DIRECCION PRESIDENTA)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "186",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.583704, -33.032842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "3",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  3 José Miguel Carrera",
+        "Uv": "3.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Esperanza",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "Los Peumos nº786 (DIRECCION PRESIDENTA)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "187",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.583164, -33.037584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "4",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  46 Población Chile",
+        "Uv": "46.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Esperanza",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "LAS CARABELAS 173 (DIRECCION PRESIDENTA)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "188",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.579917, -33.042179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "5",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 47 Ernesto Quiroz Weber",
+        "Uv": "47.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Esperanza",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "Psje Gound nº651 (DIRECCION SECRETARIO)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "189",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.593084, -33.034300]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "7",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 49-A Central Poniente",
+        "Uv": "49.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "Amalia Paz nº488 (DIRECCION PRESIDENTA)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "190",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.593034, -33.038556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "8",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 50 Fernando Lesseps",
+        "Uv": "50.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "Bartolome Vivar nº526 (DIRECCION PRESIDENTE)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "191",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.589348, -33.037840]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "9",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 50-A Cuatro Luces",
+        "Uv": "50.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "Av Los Placeres 1256 casa 5 pobl 4 Luces (DIRECCION PRESIDENTE)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "192",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.589772, -33.034615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "10",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  51 Placeres Central",
+        "Uv": "50.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "SAN GUILLERMO Nº 1143 (DIRECCION PRESIDENTE)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "193",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.589642, -33.044733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "11",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 86 Cincel",
+        "Uv": "86.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "S Vilches24 B (DIRECCION PRESIDENTA)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "194",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.580936, -33.046796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "14",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 89 Sara Brown Soberania",
+        "Uv": "89.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "Tegualda nº 26 Sara Braun (DIRECCION PRESIDENTA)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "195",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.582561, -33.045508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "15",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 90 Población Arturo Alessandri",
+        "Uv": "90.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "PSJE MIRELLA Nº 5 (DIRECCION PRESIDENTA)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "196",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.585575, -33.046093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "17",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  92 Villa Berlín",
+        "Uv": "92.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "RIO CACHAPOAL 128, CASA 59-B (DIRECCION PRESIDENTE)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "197",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.576673, -33.048008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "20",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 143-B",
+        "Uv": "143.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "OROMPELLO Nº 15-B PLACERES",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "198",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.565090, -33.052879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "25",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 188-A Doctor Isrrael Roizblatt",
+        "Uv": "188.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "DOCTOR ISRAEL ROIZBLAT",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "199",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.563175, -33.056938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "26",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 189 Palmas de Valparaíso",
+        "Uv": "189.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "PSJE AÑAÑUCA DE FUEGO",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "200",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.559982, -33.057929]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "27",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 190 Las Palmas",
+        "Uv": "190.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "LAS PALMAS DE RODELILLO",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "201",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.561132, -33.059223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "32",
+        "ID_1": "0",
+        "Junta_de_V": "J.V.  157",
+        "Uv": "157.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "TURIN Nº 60 PLACERES (direccion secretaria)",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "202",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.574848, -33.051368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "31",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 188-B POBLACION ROITZBLATH",
+        "Uv": "188.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "DOCTOR ISRAEL ROIZBLAT",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "203",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.563184, -33.056909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 2 Los Boldos",
+        "Uv": "2.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Esperanza",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "LOS BOLDOS 50 (SEDE)",
+        "Obs_": "",
+        "FOTO": "2.JPG",
+        "IDEM": "204",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/2.JPG",
+        "No": "204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.582649, -33.035714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "12",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 87 Javiera Carrera",
+        "Uv": "87.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "LEONIDAS VALENZUELA 13",
+        "Obs_": "",
+        "FOTO": "12.JPG",
+        "IDEM": "205",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/12.JPG",
+        "No": "205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.587022, -33.041962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "18",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 93 Población El Progreso",
+        "Uv": "93.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SIN INFO",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "CALLE LIMA  40",
+        "Obs_": "",
+        "FOTO": "18.JPG",
+        "IDEM": "206",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/18.JPG",
+        "No": "206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.573066, -33.049936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "21",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 148 Villa Japón",
+        "Uv": "148.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "CALLE YACOHAMA 65",
+        "Obs_": "",
+        "FOTO": "21.JPG",
+        "IDEM": "207",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/21.JPG",
+        "No": "207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.575212, -33.050318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "22",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. Mapue",
+        "Uv": "161.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "ESCRIBA DE BALAGUER 222",
+        "Obs_": "",
+        "FOTO": "22.JPG",
+        "IDEM": "208",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/22.JPG",
+        "No": "208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.558473, -33.060171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "23",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 158-A Trabajadores Unidos",
+        "Uv": "158.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "LEONIDAS VALENZUELA 13",
+        "Obs_": "",
+        "FOTO": "23.JPG",
+        "IDEM": "209",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/23.JPG",
+        "No": "209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.587006, -33.041957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "29",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 200 Cabriteria Norte",
+        "Uv": "200.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "NO",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "cabriteria norte con huilmo",
+        "Obs_": "",
+        "FOTO": "29.JPG",
+        "IDEM": "210",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/29.JPG",
+        "No": "210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.565718, -33.057417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "30",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 201 Cabriteria Poniente",
+        "Uv": "201.000000",
+        "Sector": "1",
+        "CERRO_SECT": "Placeres",
+        "VIGENCIA": "SI",
+        "ACTIVA": "SI",
+        "Coordinado": "JOHANNA ESPEJO",
+        "Direccio_n": "cabriteria poniente 1173 lote G",
+        "Obs_": "",
+        "FOTO": "30.JPG",
+        "IDEM": "211",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/30.JPG",
+        "No": "211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.569527, -33.055799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J:V. 135 Aguas Buenas        C\/V",
+        "Uv": "135.000000",
+        "Sector": "",
+        "CERRO_SECT": "Placilla",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "decima 619",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "212",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.563546, -33.111807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J:V. 145 Placilla nuevo",
+        "Uv": "145.000000",
+        "Sector": "",
+        "CERRO_SECT": "Placilla",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "Bernardo o`higgins 151",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "213",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.557841, -33.116985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J:V. 199 Villa los Fundadores",
+        "Uv": "199.000000",
+        "Sector": "",
+        "CERRO_SECT": "Placilla",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "Los Pioneros 587",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "214",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.566085, -33.123108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 204 Villa Cardenal Samore",
+        "Uv": "204.000000",
+        "Sector": "",
+        "CERRO_SECT": "Placilla",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "Las Lavandas 1099",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "215",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.578661, -33.117958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J:V. 136-B Mauricio Rugendas",
+        "Uv": "136.000000",
+        "Sector": "",
+        "CERRO_SECT": "Placilla",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "Manuel Antonio Caro 211",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "216",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.575123, -33.118270]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 204-A Luz Esperanza",
+        "Uv": "204.000000",
+        "Sector": "",
+        "CERRO_SECT": "Placilla",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "Los Juncos 999",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "217",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.579873, -33.117560]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J:V. 204-A El Esfuerzo",
+        "Uv": "204.000000",
+        "Sector": "",
+        "CERRO_SECT": "Placilla",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "Las Verbenas 1128",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "218",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.581107, -33.119313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J:V. 204-A Laguna Luz",
+        "Uv": "204.000000",
+        "Sector": "",
+        "CERRO_SECT": "Placilla",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "Los Bosques 1095",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "219",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.582301, -33.118538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "J.V. 203-A Altos de Curauma",
+        "Uv": "203.000000",
+        "Sector": "",
+        "CERRO_SECT": "Placilla",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "AV: Curauma Sur 1826 Casa Nª 381",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "220",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.571802, -33.127590]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "0",
+        "ID_1": "0",
+        "Junta_de_V": "",
+        "Uv": "0.000000",
+        "Sector": "",
+        "CERRO_SECT": "",
+        "VIGENCIA": "",
+        "ACTIVA": "SIN INFO",
+        "Coordinado": "",
+        "Direccio_n": "",
+        "Obs_": "",
+        "FOTO": "",
+        "IDEM": "0",
+        "Link_Serve": "\/\/192.168.12.9:80\/mapguide2011\/fusion\/templates\/mapguide\/slate\/FOTOS_JV\/",
+        "No": "221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.574300, -33.135715]
+      }
+    }
+
+  ]
+}

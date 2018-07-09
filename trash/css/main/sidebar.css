@@ -1,0 +1,23 @@
+
+.uppermenu {
+  margin-top: 5px;
+  margin-left: 5px;
+
+}
+
+.uppermenu ul {
+  width: 240px;
+  margin: 0;
+  background: #5B96CF;
+  margin-bottom: 3px;
+}
+
+.photo {
+  width: 96%;
+  margin-left: 3px;
+}
+
+.uppermenu ul h1 {
+  text-align: center;
+  color: #fff
+}

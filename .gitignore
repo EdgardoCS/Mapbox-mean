@@ -7,3 +7,4 @@ src/xlsx
 #core files#
 node_modules/
 extras/
+trash/

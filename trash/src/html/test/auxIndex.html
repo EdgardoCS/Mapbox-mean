@@ -1,0 +1,81 @@
+<head>
+  <meta charset='utf-8' />
+  <title> Herramienta de edición</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <!--*************************** SOURCE ************************************-->
+  <!--main-->
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.css' rel='stylesheet' />
+  <!--polygon-->
+  <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.18.0/mapbox-gl-draw.js'></script>
+  <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.18.0/mapbox-gl-draw.css' type='text/css' />
+  <!--turf-->
+  <script src='https://api.mapbox.com/mapbox.js/plugins/turf/v2.0.2/turf.min.js'></script>
+  <!--smalltalk-->
+  <link rel="stylesheet" href="../../node_modules/smalltalk/dist/smalltalk.min.css">
+  <script src="../../node_modules/smalltalk/dist/smalltalk.poly.min.js"></script>
+  <!--GoogleMaps-->
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+  <script type="text/javascript"></script>
+  <!--XLSX-->
+  <script lang="javascript" src="../../node_modules/xlsx/dist/xlsx.full.min.js"></script>
+  <!--JQuery-->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="../../node_modules/jquery/dist/jquery.js"></script>
+  <!--project4-->
+  <script src="../../node_modules/proj4/dist/proj4.js"></script>
+  <!--***********************************************************************-->
+
+  <!-- *************************** CSS*********************************** -->
+  <link rel="stylesheet" href="../../css/font-awesome-4.7.0/css/font-awesome.min.css">
+  <link rel=stylesheet type="text/css" href="../../css/aux/map.css">
+  <link rel=stylesheet type="text/css" href="../../css/aux/checkbox_clear.css">
+  <link rel=stylesheet type="text/css" href="../../css/aux/mainTopbar.css">
+  <link rel=stylesheet type="text/css" href="../../css/aux/sidebar.css">
+  <link rel=stylesheet type="text/css" href="../../css/aux/search.css">
+  <link rel=stylesheet type="text/css" href="../../css/aux/desplegable.css">
+
+  <style>
+    body {
+      margin: 0;
+    }
+  </style>
+
+  <body>
+    <div id='map'></div>
+    <!-- ********************* HTML BUTTONS ******************************** -->
+    <div style="margin-left:50%"></div>
+
+    <div class="icon-bar">
+      <a class="active1" href="#"><i class="fa fa-home"></i></a>
+      <div class="container-search">
+        <input type="search" id="search" placeholder="Buscar..." />
+        <button onclick="search()" class="icon"><i class="fa fa-search"></i></button>
+      </div>
+    </div>
+
+    <div class="sidecontainer">
+      <div class="sidebar">
+        <div class="photo">
+          <img src="../../extras/pictures/logoG.jpg" alt="samus" style="width:100%;height:50%px;">
+        </div>
+
+        <div class="main6">
+          <p>Limpiar Busqueda</p>
+          <button onclick="viewclearSearch()" class="icon"><i class="fa fa-times" id="clearSearch"></i></button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ********************* JS SCRIPTS ******************************** -->
+    <script src="../../js/main/main.js"></script>
+    <script src="../../js/main/polygon.js"></script>
+
+    <script src="../../js/edit/butonClear.js"></script>
+    <script src="../../js/edit/search.js"></script>
+    <script src="../../js/edit/tooltip.js"></script>
+    <!--
+-->
+  </body>
+
+  </html>

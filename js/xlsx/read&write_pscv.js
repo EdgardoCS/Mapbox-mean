@@ -14,9 +14,7 @@ var _l = data.length;
 
 var tarjetero = [];
 
-console.log(coleccion);
-// console.log(data);
-// console.log(headers);
+// console.log(coleccion);
 
 for (i = 8; i < _l; i++) {
   for (j = 0; j < _h; j++) {

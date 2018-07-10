@@ -1,92 +1,33 @@
-var nonagon = require("../../js/functions/query/query_join.js");
-
 var MongoClient = require('mongodb').MongoClient;
 var url = "mongodb://localhost:27017/";
 
-var coleccion1 = "maestro_AmMena";
-var coleccion2 = "TARJETERO";
-
-var maestro = [];
-var tarjetero = [];
-var match = [];
-var search = [];
-var join = [];
-// var final = [];
 
 MongoClient.connect(url, {
   useNewUrlParser: true
 }, function(err, db) {
   if (err) throw err;
-  var dbo = db.db("mydb");
+  
+  var slave_coleccion = "TARJETERO";
+  var ndb = db.db("mydb");
 
-  first = function() {
-    dbo.collection(coleccion1).find({}).toArray(function(err, result) {
-      if (err) throw err;
+  ndb.collection(slave_coleccion).find({}).toArray(function(err, result) {
 
-      maestro = result;
+    if (err) throw err; 
 
-      // search[i] = {
-      //   'paciente.rut': {
-      //     $eq: maestro[i].paciente.rut;
-      //   }
-      // };
+    var tarjetero = result; 
+    
+    search(tarjetero)
 
-      second(maestro, dbo);
-    });
-    // db.close();
-  };
-  first();
-});
-second = function(maestro, dbo) {
-
-  dbo.collection(coleccion2).find({}).toArray(function(err, result) {
-    if (err) throw err;
-    tarjetero = result;
-
-    third(maestro, tarjetero);
+    db.close();
   });
-}
-
-third = function(maestro, tarjetero) {
-  var _m = maestro.length;
-  var _t = tarjetero.length;
-  for (i = 0; i < _m; i++) {
-    search = maestro[i].paciente.rut;
-    for (j = 0; j < _t; j++) {
-      if (search == tarjetero[j].paciente.rut) {
-        match.push(tarjetero[j]);
-      }
-    }
-    var _ma = match.length;
-    for (k = 0; k < _ma; k++) {
-      if (match[k].paciente.rut == maestro[i].paciente.rut) {
-        join.push(maestro[i]);
-      }
-    }
-  }
-  for (i = 0; i < _ma; i++) {
-
-    mena_pscv_array[i] = set_master_features(match[i], join[i]);
-  }
-
-  mena_pscv_source = make_master_source(mena_pscv_array);
-  mena_pscv_layer = make_master_layer(mena_pscv_source);
-
-  // console.log(mena_pscv_layer);
-  // map.on('load', function() {
-  // map.addLayer(mena_pscv_layer);
-  // });
-}
-document.getElementById('cli1').addEventListener('change', function(e) {
-
-  if (e.target.checked == true) {
-
-    map.addLayer(mena_pscv_layer);
-
-  } else if (e.target.checked == false) {
-
-    if (map.getLayer("tarjetero")) {
-      map.removeLayer("tarjetero");
-    }
-  }
 });
+
+search = function(tarjetero){
+  var rut= [];
+  _t = tarjetero.length; 
+
+  for (i=0; i<_t;i++){
+    rut[i] = tarjetero[i].paciente.rut; 
+  }
+  queryMaster(rut)
+}

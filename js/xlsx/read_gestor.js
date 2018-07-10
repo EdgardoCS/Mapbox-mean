@@ -1,15 +1,15 @@
 var xlsx = require('node-xlsx').default;
 
-goToPath = path.join(__dirname, '../../src/xlsx/');
+goToPath = path.join(__dirname, '../../src/xlsx/example/');
 
 const workSheetsFromFile = xlsx.parse(goToPath + 'Gestor de casos S27.xlsx');
 
 var gestor = workSheetsFromFile[0].data;
-console.log(gestor); 
+
 var _g = gestor.length; 
 var coleccion = workSheetsFromFile[0].name;
 var header = gestor[0];
-console.log(header); 
+
 var _h= header.length;
 var iedad;
 var irut;

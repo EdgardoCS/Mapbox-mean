@@ -1,5 +1,7 @@
 var app = require('electron').app;
 var BrowserWindow = require('electron').BrowserWindow;
+
+   
 const {
   crashReporter
 } = require('electron');

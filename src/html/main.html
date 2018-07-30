@@ -9,25 +9,25 @@
 </head>
 
 <body>
+  
+    <input type="file" id="files" name="files[]" multiple />
+    <output id="list"></output>
+  
   <div id='map'></div>
-  <header>
-  </header>
-
+  
   <script>
     if (typeof module === 'object') {
       window.module = module;
       module = undefined;
     }
     const path = require('path');
+    srcPath = path.join(__dirname,'../../');
   </script>
-
-<script src="../../js/xlsx/read&write_gestor.js"></script>
-<!--
-
-<script src="../../js/query/query_master.js"></script>
-<script src="../../js/query/query_pscv.js"></script>
--->
-
+    <script lang="javascript" src="../../node_modules/xlsx/dist/xlsx.full.min.js"></script>
+    
+    <script src = "../../js/xlsx/loadto.js"></script>
+    <script src = "../../js/xlsx/test.js" ></script>
+    
 </body>
 
 </html>

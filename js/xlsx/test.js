@@ -34,10 +34,13 @@ toparser = function (f) {
     var merge = worksheet["!merges"];
     var _m = merge.length;
 
-    console.log(workspace);
+    //console.log(workspace);
+    var currentwork = [];
     //console.log(_w);  
+    var group_headers = [];
+    var common_headers = [];
 
-    for (co = 0; co < 2; co++) {
+    for (co = 0; co < _w; co++) {
         _c = workspace[co].length;
         if (co == 0) {
             for (c = 0; c < _c; c++) {
@@ -48,10 +51,10 @@ toparser = function (f) {
                         mheader_fin[m] = merge[m].e.c; //fin celda compartida
 
                         if (c == mheader_inicio[m]) {
+
                             inicio = mheader_inicio[m];
                             fin = mheader_fin[m];
-                            console.log(shared_headers);
-                            console.log(inicio + "/" + fin);
+                            group_headers[m] = [shared_headers, inicio, fin]
                         };
                     };
                 };
@@ -59,11 +62,26 @@ toparser = function (f) {
         };
         if (co == 1) {
             for (c = 0; c < _c; c++) {
-                common_headers = workspace[co][c]
-                console.log(common_headers);
-                console.log(c);
-                
-            };
+                common_headers[c] = workspace[co][c]
+            }
+        };
+        if (co > 1) {
+            currentwork[co] = workspace[co]
         };
     };
+    widows_needs(group_headers, common_headers, currentwork);
 };
+
+widows_needs = function (group_headers, common_headers, currentwork) {
+    /*
+    console.log(group_headers);
+    console.log(common_headers)
+    console.log(currentwork); 
+*/
+    for (i = 0; i < group_headers.length; i++) {
+        for (j = group_headers[i][1]; j< group_headers[i][2]; j++){
+            console.log(group_headers[j]); 
+        }
+    }
+
+}

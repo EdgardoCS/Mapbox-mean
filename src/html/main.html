@@ -9,26 +9,28 @@
 </head>
 
 <body>
-  
-    <!-- <input type="file" id="files" name="files[]" multiple /> -->
-    <!-- <output id="list"></output> -->
-  
+
+  <!-- 
+    <input type="file" id="files" name="files[]" multiple />
+    <output id="list"></output> 
+  -->
+
   <div id='map'></div>
-  
+
   <script>
     if (typeof module === 'object') {
       window.module = module;
       module = undefined;
     }
     const path = require('path');
-    srcPath = path.join(__dirname,'../../');
+    srcPath = path.join(__dirname, '../../');
   </script>
-    <script lang="javascript" src="../../node_modules/xlsx/dist/xlsx.full.min.js"></script>
-    
-    <!-- <script src = "../../js/xlsx/loadto.js"></script> -->
-    <!-- <script src = "../../js/xlsx/read_from.js" ></script> -->
-    <script src = "../../js/test.js"></script>
-    
+  <script lang="javascript" src="../../node_modules/xlsx/dist/xlsx.full.min.js"></script>
+
+  <!-- <script src = "../../js/xlsx/loadto.js"></script> -->
+  <!-- <script src = "../../js/xlsx/read_from.js" ></script> -->
+  <script src="../../js/test.js"></script>
+
 </body>
 
 </html>

@@ -13,12 +13,10 @@ toparser = function (f) {
         hojas = workbook.SheetNames[h];
     }
     var worksheet = workbook.Sheets[hojas]; //isArray = false
-    console.log(worksheet);
 
     var workspace = XLSX.utils.sheet_to_json(worksheet, {
         header: 1,
     });
-    console.log(workspace);
 
     var merge = worksheet["!merges"];
 
@@ -78,7 +76,7 @@ hasmerge = function (workspace,merge) {
     widows_needs(index_numbers, sub_headers);
     //return "main_headers"
 
-    disarm(currentwork, sub_headers);
+    cassandra(currentwork, sub_headers);
     // return "usuarios"
     console.log(usuarios);
 
@@ -87,4 +85,24 @@ hasmerge = function (workspace,merge) {
     console.log(cabecera);
 }
 
-hasheader = function () {}
+hasheader = function (workspace) {
+    console.log(workspace); 
+    var _w = workspace.length;
+    var currentwork = [];
+    var sub_headers = [];
+
+    for (a = 0; a< _w ; a++){
+        if (a == 0){
+            var _c = workspace[a].length; 
+            for (c = 0; c< _c ; c ++){
+                sub_headers[c] = workspace[a][c]
+            };
+        };
+        if (a > 0){
+            currentwork.push(workspace[a])
+        }
+    }
+
+geminni(currentwork, sub_headers);
+console.log(usuarios);
+}

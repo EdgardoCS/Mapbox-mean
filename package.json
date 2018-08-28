@@ -30,6 +30,6 @@
   "author": "Edgardo",
   "license": "ISC",
   "devDependencies": {
-    "electron": "2.0.2"
+    "electron": "2.0.8"
   }
 }

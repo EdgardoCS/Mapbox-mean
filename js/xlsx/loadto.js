@@ -11,7 +11,7 @@ function handleFileSelect(evt) {
           document.getElementById('list').insertBefore(span, null);
         };
       })(f);
-      //console.log(f); //archivo
+      // console.log(f); //archivo
       toparser(f)
     }
   }
